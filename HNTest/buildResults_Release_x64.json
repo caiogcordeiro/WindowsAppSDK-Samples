@@ -1,0 +1,963 @@
+﻿[
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "DeploymentManagerSample.sln",
+                "buildDuration":  "00:05.713",
+                "relativePath":  "cpp-winui\\DeploymentManagerSample.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "DeploymentManagerSample.sln",
+                "buildDuration":  "00:05.460",
+                "relativePath":  "cs-winui\\DeploymentManagerSample.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "DeploymentManager",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "LaunchInstaller.sln",
+                "buildDuration":  "00:02.685",
+                "relativePath":  "cpp-console-unpackaged\\LaunchInstaller.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Installer",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Installer"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "PhotoEditor.sln",
+                "buildDuration":  "00:06.363",
+                "relativePath":  "cpp-winui\\PhotoEditor.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "PhotoEditor.sln",
+                "buildDuration":  "00:05.325",
+                "relativePath":  "cs-winui\\PhotoEditor.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "PhotoEditor",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "DWriteCoreGallery.sln",
+                "buildDuration":  "00:07.485",
+                "relativePath":  "cpp-win32\\DWriteCoreGallery.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "TextRendering",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\TextRendering"
+  },
+  {
+    "failCount":  0,
+    "successCount":  3,
+    "solutionCount":  3,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "Unpackaged.sln",
+                "buildDuration":  "00:04.583",
+                "relativePath":  "cpp-console-unpackaged\\Unpackaged.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "Unpackaged.sln",
+                "buildDuration":  "00:04.810",
+                "relativePath":  "cs-console-unpackaged\\Unpackaged.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "WinFormsApp.sln",
+                "buildDuration":  "00:04.820",
+                "relativePath":  "cs-winforms-unpackaged\\WinFormsApp.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Unpackaged",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged"
+  },
+  {
+    "failCount":  0,
+    "successCount":  6,
+    "solutionCount":  6,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppUnpackagedAppNotifications.sln",
+                "buildDuration":  "00:14.162",
+                "relativePath":  "App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsUnpackagedAppNotifications.sln",
+                "buildDuration":  "00:05.343",
+                "relativePath":  "App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cpp-winui.sln",
+                "buildDuration":  "00:06.096",
+                "relativePath":  "Badge\\cpp-winui\\cpp-winui.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cswinui.sln",
+                "buildDuration":  "00:05.371",
+                "relativePath":  "Badge\\cswinui\\cswinui.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cpp-console.sln",
+                "buildDuration":  "00:08.052",
+                "relativePath":  "Push\\cpp-console-packaged\\cpp-console.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cpp-console-unpackaged.sln",
+                "buildDuration":  "00:04.822",
+                "relativePath":  "Push\\cpp-console-unpackaged\\cpp-console-unpackaged.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Notifications",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SampleWidgets.sln",
+                "buildDuration":  "00:08.266",
+                "relativePath":  "cpp-win32-packaged\\SampleWidgets.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsConsoleWidgetProvider.sln",
+                "buildDuration":  "00:05.009",
+                "relativePath":  "cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Widgets",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "DynamicRefreshRateTool.sln",
+                "buildDuration":  "00:06.029",
+                "relativePath":  "DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Composition",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Composition"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "Insights.sln",
+                "buildDuration":  "00:03.800",
+                "relativePath":  "cpp-win32\\Insights.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Insights",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Insights"
+  },
+  {
+    "failCount":  0,
+    "successCount":  4,
+    "solutionCount":  4,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinRtConsoleActivation.sln",
+                "buildDuration":  "00:03.982",
+                "relativePath":  "cpp-console-unpackaged\\CppWinRtConsoleActivation.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinMainActivationPkg.sln",
+                "buildDuration":  "00:07.899",
+                "relativePath":  "cpp-win32-packaged\\CppWinMainActivationPkg.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinMainActivation.sln",
+                "buildDuration":  "00:04.113",
+                "relativePath":  "cpp-win32-unpackaged\\CppWinMainActivation.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinUiDesktopActivation.sln",
+                "buildDuration":  "00:12.870",
+                "relativePath":  "cpp-winui-packaged\\CppWinUiDesktopActivation.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Activation-cpp",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp"
+  },
+  {
+    "failCount":  0,
+    "successCount":  3,
+    "solutionCount":  3,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsConsoleActivation.sln",
+                "buildDuration":  "00:04.749",
+                "relativePath":  "cs-console-unpackaged\\CsConsoleActivation.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWinFormsActivation.sln",
+                "buildDuration":  "00:04.680",
+                "relativePath":  "cs-winforms-unpackaged\\CsWinFormsActivation.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWpfActivation.sln",
+                "buildDuration":  "00:04.777",
+                "relativePath":  "cs-wpf-unpackaged\\CsWpfActivation.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Activation-cs",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWpfActivationPkg.sln",
+                "buildDuration":  "00:19.254",
+                "relativePath":  "cs-wpf-packaged\\CsWpfActivationPkg.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Activation-cs1",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs1"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWinUiDesktopActivation.sln",
+                "buildDuration":  "00:15.014",
+                "relativePath":  "cs-winui-packaged\\CsWinUiDesktopActivation.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Activation-cs2",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs2"
+  },
+  {
+    "failCount":  0,
+    "successCount":  4,
+    "solutionCount":  4,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinRtConsoleInstancing.sln",
+                "buildDuration":  "00:03.981",
+                "relativePath":  "cpp-console-unpackaged\\CppWinRtConsoleInstancing.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinMainInstancingPkg.sln",
+                "buildDuration":  "00:07.769",
+                "relativePath":  "cpp-win32-packaged\\CppWinMainInstancingPkg.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinMainInstancing.sln",
+                "buildDuration":  "00:04.033",
+                "relativePath":  "cpp-win32-unpackaged\\CppWinMainInstancing.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinUiDesktopInstancing.sln",
+                "buildDuration":  "00:12.913",
+                "relativePath":  "cpp-winui-packaged\\CppWinUiDesktopInstancing.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Instancing-cpp",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp"
+  },
+  {
+    "failCount":  0,
+    "successCount":  3,
+    "solutionCount":  3,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsConsoleInstancing.sln",
+                "buildDuration":  "00:04.787",
+                "relativePath":  "cs-console-unpackaged\\CsConsoleInstancing.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWinFormsInstancing.sln",
+                "buildDuration":  "00:04.778",
+                "relativePath":  "cs-winforms-unpackaged\\CsWinFormsInstancing.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWpfInstancing.sln",
+                "buildDuration":  "00:04.730",
+                "relativePath":  "cs-wpf-unpackaged\\CsWpfInstancing.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Instancing-cs",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWpfInstancingPkg.sln",
+                "buildDuration":  "00:19.615",
+                "relativePath":  "cs-wpf-packaged\\CsWpfInstancingPkg.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Instancing-cs1",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs1"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWinUiDesktopInstancing.sln",
+                "buildDuration":  "00:15.328",
+                "relativePath":  "cs-winui-packaged\\CsWinUiDesktopInstancing.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Instancing-cs2",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs2"
+  },
+  {
+    "failCount":  0,
+    "successCount":  4,
+    "solutionCount":  4,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinRtConsoleState.sln",
+                "buildDuration":  "00:03.969",
+                "relativePath":  "cpp-console-unpackaged\\CppWinRtConsoleState.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinMainStatePkg.sln",
+                "buildDuration":  "00:07.643",
+                "relativePath":  "cpp-win32-packaged\\CppWinMainStatePkg.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinMainState.sln",
+                "buildDuration":  "00:04.014",
+                "relativePath":  "cpp-win32-unpackaged\\CppWinMainState.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinUiDesktopState.sln",
+                "buildDuration":  "00:12.972",
+                "relativePath":  "cpp-winui-packaged\\CppWinUiDesktopState.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-StateNotifications-cpp",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp"
+  },
+  {
+    "failCount":  0,
+    "successCount":  3,
+    "solutionCount":  3,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsConsoleState.sln",
+                "buildDuration":  "00:04.833",
+                "relativePath":  "cs-console-unpackaged\\CsConsoleState.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWinFormsState.sln",
+                "buildDuration":  "00:04.797",
+                "relativePath":  "cs-winforms-unpackaged\\CsWinFormsState.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWpfState.sln",
+                "buildDuration":  "00:04.769",
+                "relativePath":  "cs-wpf-unpackaged\\CsWpfState.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-StateNotifications-cs",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWpfStatePkg.sln",
+                "buildDuration":  "00:19.165",
+                "relativePath":  "cs-wpf-packaged\\CsWpfStatePkg.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-StateNotifications-cs1",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs1"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWinUiDesktopState.sln",
+                "buildDuration":  "00:15.269",
+                "relativePath":  "cs-winui-packaged\\CsWinUiDesktopState.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-StateNotifications-cs2",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs2"
+  },
+  {
+    "failCount":  0,
+    "successCount":  3,
+    "solutionCount":  3,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinRtConsoleEnv.sln",
+                "buildDuration":  "00:04.554",
+                "relativePath":  "cpp-console-unpackaged\\CppWinRtConsoleEnv.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CppWinMainEnv.sln",
+                "buildDuration":  "00:04.546",
+                "relativePath":  "cpp-win32-unpackaged\\CppWinMainEnv.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "CsWinFormsEnv.sln",
+                "buildDuration":  "00:04.620",
+                "relativePath":  "cs-winforms-unpackaged\\CsWinFormsEnv.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-EnvironmentVariables",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cpp-console-unpackaged.sln",
+                "buildDuration":  "00:04.720",
+                "relativePath":  "cpp-console-unpackaged\\cpp-console-unpackaged.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cs-winui-packaged.sln",
+                "buildDuration":  "00:05.407",
+                "relativePath":  "cs-winui-packaged\\cs-winui-packaged.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-Restart",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cpp-winui-packaged.sln",
+                "buildDuration":  "00:05.894",
+                "relativePath":  "cpp-winui-packaged\\cpp-winui-packaged.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cs-winui-packaged.sln",
+                "buildDuration":  "00:05.375",
+                "relativePath":  "cs-winui-packaged\\cs-winui-packaged.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-RestartRegistration",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "WinUI-CS-ShareTargetSampleApp.sln",
+                "buildDuration":  "00:05.362",
+                "relativePath":  "WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "AppLifecycle-ShareTarget",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\ShareTarget"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cpp-winui.sln",
+                "buildDuration":  "00:05.680",
+                "relativePath":  "cpp-winui\\cpp-winui.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "cswinui.sln",
+                "buildDuration":  "00:05.335",
+                "relativePath":  "cswinui\\cswinui.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "CameraCaptureUI",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "console_unpackaged_app.sln",
+                "buildDuration":  "00:05.107",
+                "relativePath":  "cpp-console-unpackaged\\console_unpackaged_app.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "winui_desktop_packaged_app_cpp.sln",
+                "buildDuration":  "00:12.658",
+                "relativePath":  "cpp-winui\\winui_desktop_packaged_app_cpp.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "ResourceManagement-cpp",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "winforms_unpackaged_app.sln",
+                "buildDuration":  "00:04.781",
+                "relativePath":  "cs-winforms-unpackaged\\winforms_unpackaged_app.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "winui_desktop_packaged_app.sln",
+                "buildDuration":  "00:15.742",
+                "relativePath":  "cs-winui\\winui_desktop_packaged_app.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "ResourceManagement-cs",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "wpf_packaged_app.sln",
+                "buildDuration":  "00:19.781",
+                "relativePath":  "cs-wpf\\wpf_packaged_app.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "ResourceManagement-cs1",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs1"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "Input.sln",
+                "buildDuration":  "00:05.430",
+                "relativePath":  "cs-winui\\Input.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Input",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Input"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "Mica-WebView2.sln",
+                "buildDuration":  "00:35.454",
+                "relativePath":  "cpp-WebView2\\Mica-WebView2.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "WinAppSDKMicaSample.sln",
+                "buildDuration":  "00:05.422",
+                "relativePath":  "cpp-win32\\WinAppSDKMicaSample.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Mica",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "Windowing.sln",
+                "buildDuration":  "00:05.092",
+                "relativePath":  "cpp-win32\\Windowing.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SampleApp.sln",
+                "buildDuration":  "00:13.826",
+                "relativePath":  "cpp-winui\\SampleApp.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Windowing-cpp",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "winforms_unpackaged_app.sln",
+                "buildDuration":  "00:04.725",
+                "relativePath":  "cs-winforms-unpackaged\\winforms_unpackaged_app.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "Windowing.sln",
+                "buildDuration":  "00:05.411",
+                "relativePath":  "cs-winui\\Windowing.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Windowing-cs",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "wpf_packaged_app.sln",
+                "buildDuration":  "00:19.103",
+                "relativePath":  "cs-wpf\\wpf_packaged_app.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "Windowing-cs1",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs1"
+  },
+  {
+    "failCount":  0,
+    "successCount":  3,
+    "solutionCount":  3,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:05.443",
+                "relativePath":  "cpp-console-unpackaged\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:14.488",
+                "relativePath":  "cpp-winui-packaged\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:14.299",
+                "relativePath":  "cpp-winui-unpackaged\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "SelfContainedDeployment-cpp",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:11.292",
+                "relativePath":  "cs-console-unpackaged\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:06.475",
+                "relativePath":  "cs-wpf-unpackaged\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "SelfContainedDeployment-cs",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:25.494",
+                "relativePath":  "cs-winui-packaged-wap\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "SelfContainedDeployment-cs1",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs1"
+  },
+  {
+    "failCount":  0,
+    "successCount":  2,
+    "solutionCount":  2,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:07.506",
+                "relativePath":  "cs-winui-packaged\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              },
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "SelfContainedDeployment.sln",
+                "buildDuration":  "00:06.092",
+                "relativePath":  "cs-winui-unpackaged\\SelfContainedDeployment.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "SelfContainedDeployment-cs2",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "WindowsAISample.sln",
+                "buildDuration":  "00:18.538",
+                "relativePath":  "WindowsAISample.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "WindowsAIFoundry-cs--Winforms--Pckg",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Pckg"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "WindowsAISampleForWinForms.sln",
+                "buildDuration":  "00:04.834",
+                "relativePath":  "WindowsAISampleForWinForms.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "WindowsAIFoundry-cs--Winforms--Sparse",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse"
+  },
+  {
+    "failCount":  1,
+    "successCount":  0,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  false,
+                "solutionName":  "WindowsAISample.sln",
+                "buildDuration":  "00:06.373",
+                "relativePath":  "WindowsAISample.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "WindowsAIFoundry-cs--WinUI",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-WinUI"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "WindowsAISampleForWPF.sln",
+                "buildDuration":  "00:18.858",
+                "relativePath":  "WindowsAISampleForWPF.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "WindowsAIFoundry-cs--Wpf",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf"
+  },
+  {
+    "failCount":  0,
+    "successCount":  1,
+    "solutionCount":  1,
+    "solutions":  [
+              {
+                "msbuildSuccess":  true,
+                "solutionName":  "WindowsAISampleForWPF.sln",
+                "buildDuration":  "00:04.908",
+                "relativePath":  "WindowsAISampleForWPF.sln",
+                "nugetRestoreSuccess":  true
+              }
+            ],
+    "featureArea":  "WindowsAIFoundry-cs--Wpf--Sparse",
+    "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf-Sparse"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "featureArea": "DeploymentManager",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager",
+    "relativePath": "DeploymentManager"
+  },
+  {
+    "featureArea": "Installer",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Installer",
+    "relativePath": "Installer"
+  },
+  {
+    "featureArea": "PhotoEditor",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor",
+    "relativePath": "PhotoEditor"
+  },
+  {
+    "featureArea": "TextRendering",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\TextRendering",
+    "relativePath": "TextRendering"
+  },
+  {
+    "featureArea": "Unpackaged",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged",
+    "relativePath": "Unpackaged"
+  },
+  {
+    "featureArea": "Notifications",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications",
+    "relativePath": "Notifications"
+  },
+  {
+    "featureArea": "Widgets",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets",
+    "relativePath": "Widgets"
+  },
+  {
+    "featureArea": "Composition",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Composition",
+    "relativePath": "Composition"
+  },
+  {
+    "featureArea": "Insights",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Insights",
+    "relativePath": "Insights"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cpp",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp",
+    "relativePath": "AppLifecycle\\Activation\\cpp"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cs",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs",
+    "relativePath": "AppLifecycle\\Activation\\cs"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cs1",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs1",
+    "relativePath": "AppLifecycle\\Activation\\cs1"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cs2",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs2",
+    "relativePath": "AppLifecycle\\Activation\\cs2"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cpp",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp",
+    "relativePath": "AppLifecycle\\Instancing\\cpp"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cs",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs",
+    "relativePath": "AppLifecycle\\Instancing\\cs"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cs1",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs1",
+    "relativePath": "AppLifecycle\\Instancing\\cs1"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cs2",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs2",
+    "relativePath": "AppLifecycle\\Instancing\\cs2"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cpp",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp",
+    "relativePath": "AppLifecycle\\StateNotifications\\cpp"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cs",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs",
+    "relativePath": "AppLifecycle\\StateNotifications\\cs"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cs1",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs1",
+    "relativePath": "AppLifecycle\\StateNotifications\\cs1"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cs2",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs2",
+    "relativePath": "AppLifecycle\\StateNotifications\\cs2"
+  },
+  {
+    "featureArea": "AppLifecycle-EnvironmentVariables",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables",
+    "relativePath": "AppLifecycle\\EnvironmentVariables"
+  },
+  {
+    "featureArea": "AppLifecycle-Restart",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart",
+    "relativePath": "AppLifecycle\\Restart"
+  },
+  {
+    "featureArea": "AppLifecycle-RestartRegistration",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration",
+    "relativePath": "AppLifecycle\\RestartRegistration"
+  },
+  {
+    "featureArea": "AppLifecycle-ShareTarget",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\ShareTarget",
+    "relativePath": "AppLifecycle\\ShareTarget"
+  },
+  {
+    "featureArea": "CameraCaptureUI",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI",
+    "relativePath": "CameraCaptureUI"
+  },
+  {
+    "featureArea": "ResourceManagement-cpp",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp",
+    "relativePath": "ResourceManagement\\cpp"
+  },
+  {
+    "featureArea": "ResourceManagement-cs",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs",
+    "relativePath": "ResourceManagement\\cs"
+  },
+  {
+    "featureArea": "ResourceManagement-cs1",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs1",
+    "relativePath": "ResourceManagement\\cs1"
+  },
+  {
+    "featureArea": "Input",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Input",
+    "relativePath": "Input"
+  },
+  {
+    "featureArea": "Mica",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica",
+    "relativePath": "Mica"
+  },
+  {
+    "featureArea": "Windowing-cpp",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp",
+    "relativePath": "Windowing\\cpp"
+  },
+  {
+    "featureArea": "Windowing-cs",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs",
+    "relativePath": "Windowing\\cs"
+  },
+  {
+    "featureArea": "Windowing-cs1",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs1",
+    "relativePath": "Windowing\\cs1"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cpp",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp",
+    "relativePath": "SelfContainedDeployment\\cpp"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cs",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs",
+    "relativePath": "SelfContainedDeployment\\cs"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cs1",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs1",
+    "relativePath": "SelfContainedDeployment\\cs1"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cs2",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2",
+    "relativePath": "SelfContainedDeployment\\cs2"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Winforms--Pckg",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Pckg",
+    "relativePath": "WindowsAIFoundry\\cs-Winforms-Pckg"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Winforms--Sparse",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse",
+    "relativePath": "WindowsAIFoundry\\cs-Winforms-Sparse"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--WinUI",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-WinUI",
+    "relativePath": "WindowsAIFoundry\\cs-WinUI"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Wpf",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf",
+    "relativePath": "WindowsAIFoundry\\cs-Wpf"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Wpf--Sparse",
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf-Sparse",
+    "relativePath": "WindowsAIFoundry\\cs-Wpf-Sparse"
+  }
+]

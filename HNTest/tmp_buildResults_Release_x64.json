@@ -1,0 +1,16 @@
+﻿{
+  "failCount":  0,
+  "successCount":  1,
+  "solutionCount":  1,
+  "solutions":  [
+            {
+              "msbuildSuccess":  true,
+              "solutionName":  "WindowsAISampleForWinForms.sln",
+              "buildDuration":  "00:17.166",
+              "relativePath":  "WindowsAISampleForWinForms.sln",
+              "nugetRestoreSuccess":  true
+            }
+          ],
+  "featureArea":  "WindowsAIFoundry-cs--Winforms--Sparse",
+  "fullPath":  "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse"
+}

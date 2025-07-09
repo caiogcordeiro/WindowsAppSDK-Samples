@@ -1,0 +1,549 @@
+[
+  {
+    "featureArea": "DeploymentManager",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-winui\\DeploymentManagerSample.sln"
+      },
+      {
+        "relativePath": "cs-winui\\DeploymentManagerSample.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager"
+  },
+  {
+    "featureArea": "Installer",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\LaunchInstaller.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Installer"
+  },
+  {
+    "featureArea": "PhotoEditor",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-winui\\PhotoEditor.sln"
+      },
+      {
+        "relativePath": "cs-winui\\PhotoEditor.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor"
+  },
+  {
+    "featureArea": "TextRendering",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-win32\\DWriteCoreGallery.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\TextRendering"
+  },
+  {
+    "featureArea": "Unpackaged",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\Unpackaged.sln"
+      },
+      {
+        "relativePath": "cs-console-unpackaged\\Unpackaged.sln"
+      },
+      {
+        "relativePath": "cs-winforms-unpackaged\\WinFormsApp.sln"
+      }
+    ],
+    "solutionCount": 3,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged"
+  },
+  {
+    "featureArea": "Notifications",
+    "solutionFiles": [
+      {
+        "relativePath": "App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.sln"
+      },
+      {
+        "relativePath": "App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.sln"
+      },
+      {
+        "relativePath": "Badge\\cpp-winui\\cpp-winui.sln"
+      },
+      {
+        "relativePath": "Badge\\cswinui\\cswinui.sln"
+      },
+      {
+        "relativePath": "Push\\cpp-console-packaged\\cpp-console.sln"
+      },
+      {
+        "relativePath": "Push\\cpp-console-unpackaged\\cpp-console-unpackaged.sln"
+      }
+    ],
+    "solutionCount": 6,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications"
+  },
+  {
+    "featureArea": "Widgets",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-win32-packaged\\SampleWidgets.sln"
+      },
+      {
+        "relativePath": "cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets"
+  },
+  {
+    "featureArea": "Composition",
+    "solutionFiles": [
+      {
+        "relativePath": "DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Composition"
+  },
+  {
+    "featureArea": "Insights",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-win32\\Insights.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Insights"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cpp",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleActivation.sln"
+      },
+      {
+        "relativePath": "cpp-win32-packaged\\CppWinMainActivationPkg.sln"
+      },
+      {
+        "relativePath": "cpp-win32-unpackaged\\CppWinMainActivation.sln"
+      },
+      {
+        "relativePath": "cpp-winui-packaged\\CppWinUiDesktopActivation.sln"
+      }
+    ],
+    "solutionCount": 4,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cs",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-console-unpackaged\\CsConsoleActivation.sln"
+      },
+      {
+        "relativePath": "cs-winforms-unpackaged\\CsWinFormsActivation.sln"
+      },
+      {
+        "relativePath": "cs-wpf-unpackaged\\CsWpfActivation.sln"
+      }
+    ],
+    "solutionCount": 3,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cs1",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-wpf-packaged\\CsWpfActivationPkg.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs1"
+  },
+  {
+    "featureArea": "AppLifecycle-Activation-cs2",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winui-packaged\\CsWinUiDesktopActivation.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs2"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cpp",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleInstancing.sln"
+      },
+      {
+        "relativePath": "cpp-win32-packaged\\CppWinMainInstancingPkg.sln"
+      },
+      {
+        "relativePath": "cpp-win32-unpackaged\\CppWinMainInstancing.sln"
+      },
+      {
+        "relativePath": "cpp-winui-packaged\\CppWinUiDesktopInstancing.sln"
+      }
+    ],
+    "solutionCount": 4,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cs",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-console-unpackaged\\CsConsoleInstancing.sln"
+      },
+      {
+        "relativePath": "cs-winforms-unpackaged\\CsWinFormsInstancing.sln"
+      },
+      {
+        "relativePath": "cs-wpf-unpackaged\\CsWpfInstancing.sln"
+      }
+    ],
+    "solutionCount": 3,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cs1",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-wpf-packaged\\CsWpfInstancingPkg.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs1"
+  },
+  {
+    "featureArea": "AppLifecycle-Instancing-cs2",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winui-packaged\\CsWinUiDesktopInstancing.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs2"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cpp",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleState.sln"
+      },
+      {
+        "relativePath": "cpp-win32-packaged\\CppWinMainStatePkg.sln"
+      },
+      {
+        "relativePath": "cpp-win32-unpackaged\\CppWinMainState.sln"
+      },
+      {
+        "relativePath": "cpp-winui-packaged\\CppWinUiDesktopState.sln"
+      }
+    ],
+    "solutionCount": 4,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cs",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-console-unpackaged\\CsConsoleState.sln"
+      },
+      {
+        "relativePath": "cs-winforms-unpackaged\\CsWinFormsState.sln"
+      },
+      {
+        "relativePath": "cs-wpf-unpackaged\\CsWpfState.sln"
+      }
+    ],
+    "solutionCount": 3,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cs1",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-wpf-packaged\\CsWpfStatePkg.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs1"
+  },
+  {
+    "featureArea": "AppLifecycle-StateNotifications-cs2",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winui-packaged\\CsWinUiDesktopState.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs2"
+  },
+  {
+    "featureArea": "AppLifecycle-EnvironmentVariables",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleEnv.sln"
+      },
+      {
+        "relativePath": "cpp-win32-unpackaged\\CppWinMainEnv.sln"
+      },
+      {
+        "relativePath": "cs-winforms-unpackaged\\CsWinFormsEnv.sln"
+      }
+    ],
+    "solutionCount": 3,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables"
+  },
+  {
+    "featureArea": "AppLifecycle-Restart",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\cpp-console-unpackaged.sln"
+      },
+      {
+        "relativePath": "cs-winui-packaged\\cs-winui-packaged.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart"
+  },
+  {
+    "featureArea": "AppLifecycle-RestartRegistration",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-winui-packaged\\cpp-winui-packaged.sln"
+      },
+      {
+        "relativePath": "cs-winui-packaged\\cs-winui-packaged.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration"
+  },
+  {
+    "featureArea": "AppLifecycle-ShareTarget",
+    "solutionFiles": [
+      {
+        "relativePath": "WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\ShareTarget"
+  },
+  {
+    "featureArea": "CameraCaptureUI",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-winui\\cpp-winui.sln"
+      },
+      {
+        "relativePath": "cswinui\\cswinui.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI"
+  },
+  {
+    "featureArea": "ResourceManagement-cpp",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\console_unpackaged_app.sln"
+      },
+      {
+        "relativePath": "cpp-winui\\winui_desktop_packaged_app_cpp.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp"
+  },
+  {
+    "featureArea": "ResourceManagement-cs",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winforms-unpackaged\\winforms_unpackaged_app.sln"
+      },
+      {
+        "relativePath": "cs-winui\\winui_desktop_packaged_app.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs"
+  },
+  {
+    "featureArea": "ResourceManagement-cs1",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-wpf\\wpf_packaged_app.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs1"
+  },
+  {
+    "featureArea": "Input",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winui\\Input.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Input"
+  },
+  {
+    "featureArea": "Mica",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-WebView2\\Mica-WebView2.sln"
+      },
+      {
+        "relativePath": "cpp-win32\\WinAppSDKMicaSample.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica"
+  },
+  {
+    "featureArea": "Windowing-cpp",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-win32\\Windowing.sln"
+      },
+      {
+        "relativePath": "cpp-winui\\SampleApp.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp"
+  },
+  {
+    "featureArea": "Windowing-cs",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winforms-unpackaged\\winforms_unpackaged_app.sln"
+      },
+      {
+        "relativePath": "cs-winui\\Windowing.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs"
+  },
+  {
+    "featureArea": "Windowing-cs1",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-wpf\\wpf_packaged_app.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs1"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cpp",
+    "solutionFiles": [
+      {
+        "relativePath": "cpp-console-unpackaged\\SelfContainedDeployment.sln"
+      },
+      {
+        "relativePath": "cpp-winui-packaged\\SelfContainedDeployment.sln"
+      },
+      {
+        "relativePath": "cpp-winui-unpackaged\\SelfContainedDeployment.sln"
+      }
+    ],
+    "solutionCount": 3,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cs",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-console-unpackaged\\SelfContainedDeployment.sln"
+      },
+      {
+        "relativePath": "cs-wpf-unpackaged\\SelfContainedDeployment.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cs1",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winui-packaged-wap\\SelfContainedDeployment.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs1"
+  },
+  {
+    "featureArea": "SelfContainedDeployment-cs2",
+    "solutionFiles": [
+      {
+        "relativePath": "cs-winui-packaged\\SelfContainedDeployment.sln"
+      },
+      {
+        "relativePath": "cs-winui-unpackaged\\SelfContainedDeployment.sln"
+      }
+    ],
+    "solutionCount": 2,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Winforms--Pckg",
+    "solutionFiles": [
+      {
+        "relativePath": "WindowsAISample.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Pckg"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Winforms--Sparse",
+    "solutionFiles": [
+      {
+        "relativePath": "WindowsAISampleForWinForms.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--WinUI",
+    "solutionFiles": [
+      {
+        "relativePath": "WindowsAISample.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-WinUI"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Wpf",
+    "solutionFiles": [
+      {
+        "relativePath": "WindowsAISampleForWPF.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf"
+  },
+  {
+    "featureArea": "WindowsAIFoundry-cs--Wpf--Sparse",
+    "solutionFiles": [
+      {
+        "relativePath": "WindowsAISampleForWPF.sln"
+      }
+    ],
+    "solutionCount": 1,
+    "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf-Sparse"
+  }
+]
