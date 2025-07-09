@@ -22,7 +22,7 @@ $successfulBuilds = 0
 $failedBuilds = 0
 
 Write-Host "Starting build process for all feature area solutions..."
-Write-Host "Configuration: $Configuration, Platform: $Platform"
+Write-Host "Configuration: $Configuration, Platform: $Platform, OutputFile: $OutputFile"
 Write-Host ("=" * 80)
 
 foreach ($featureArea in $featureAreas) {
