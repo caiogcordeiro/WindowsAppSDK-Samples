@@ -1,0 +1,667 @@
+{
+  "timestamp": "2025-07-09 16:51:02",
+  "summary": {
+    "totalSolutions": 82,
+    "totalCsprojFiles": 45,
+    "totalVcxprojFiles": 38,
+    "totalProjectFiles": 83
+  },
+  "solutions": [
+    {
+      "solutionName": "CppWinMainActivation.sln",
+      "relativePath": "AppLifecycle\\Activation\\cpp\\cpp-win32-unpackaged\\CppWinMainActivation.sln",
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinMainActivationPkg.sln",
+      "relativePath": "AppLifecycle\\Activation\\cpp\\cpp-win32-packaged\\CppWinMainActivationPkg.sln",
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinRtConsoleActivation.sln",
+      "relativePath": "AppLifecycle\\Activation\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleActivation.sln",
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinUiDesktopActivation.sln",
+      "relativePath": "AppLifecycle\\Activation\\cpp\\cpp-winui-packaged\\CppWinUiDesktopActivation.sln",
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsConsoleActivation.sln",
+      "relativePath": "AppLifecycle\\Activation\\cs\\cs-console-unpackaged\\CsConsoleActivation.sln",
+      "featureArea": "AppLifecycle-Activation-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWinFormsActivation.sln",
+      "relativePath": "AppLifecycle\\Activation\\cs\\cs-winforms-unpackaged\\CsWinFormsActivation.sln",
+      "featureArea": "AppLifecycle-Activation-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWpfActivation.sln",
+      "relativePath": "AppLifecycle\\Activation\\cs\\cs-wpf-unpackaged\\CsWpfActivation.sln",
+      "featureArea": "AppLifecycle-Activation-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWpfActivationPkg.sln",
+      "relativePath": "AppLifecycle\\Activation\\cs1\\cs-wpf-packaged\\CsWpfActivationPkg.sln",
+      "featureArea": "AppLifecycle-Activation-cs1",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWinUiDesktopActivation.sln",
+      "relativePath": "AppLifecycle\\Activation\\cs2\\cs-winui-packaged\\CsWinUiDesktopActivation.sln",
+      "featureArea": "AppLifecycle-Activation-cs2",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinMainEnv.sln",
+      "relativePath": "AppLifecycle\\EnvironmentVariables\\cpp-win32-unpackaged\\CppWinMainEnv.sln",
+      "featureArea": "AppLifecycle-EnvironmentVariables",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinRtConsoleEnv.sln",
+      "relativePath": "AppLifecycle\\EnvironmentVariables\\cpp-console-unpackaged\\CppWinRtConsoleEnv.sln",
+      "featureArea": "AppLifecycle-EnvironmentVariables",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWinFormsEnv.sln",
+      "relativePath": "AppLifecycle\\EnvironmentVariables\\cs-winforms-unpackaged\\CsWinFormsEnv.sln",
+      "featureArea": "AppLifecycle-EnvironmentVariables",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinMainInstancing.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cpp\\cpp-win32-unpackaged\\CppWinMainInstancing.sln",
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinMainInstancingPkg.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cpp\\cpp-win32-packaged\\CppWinMainInstancingPkg.sln",
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinRtConsoleInstancing.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleInstancing.sln",
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinUiDesktopInstancing.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cpp\\cpp-winui-packaged\\CppWinUiDesktopInstancing.sln",
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsConsoleInstancing.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cs\\cs-console-unpackaged\\CsConsoleInstancing.sln",
+      "featureArea": "AppLifecycle-Instancing-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWinFormsInstancing.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cs\\cs-winforms-unpackaged\\CsWinFormsInstancing.sln",
+      "featureArea": "AppLifecycle-Instancing-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWpfInstancing.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cs\\cs-wpf-unpackaged\\CsWpfInstancing.sln",
+      "featureArea": "AppLifecycle-Instancing-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWpfInstancingPkg.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cs1\\cs-wpf-packaged\\CsWpfInstancingPkg.sln",
+      "featureArea": "AppLifecycle-Instancing-cs1",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWinUiDesktopInstancing.sln",
+      "relativePath": "AppLifecycle\\Instancing\\cs2\\cs-winui-packaged\\CsWinUiDesktopInstancing.sln",
+      "featureArea": "AppLifecycle-Instancing-cs2",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cpp-console-unpackaged.sln",
+      "relativePath": "AppLifecycle\\Restart\\cpp-console-unpackaged\\cpp-console-unpackaged.sln",
+      "featureArea": "AppLifecycle-Restart",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cs-winui-packaged.sln",
+      "relativePath": "AppLifecycle\\Restart\\cs-winui-packaged\\cs-winui-packaged.sln",
+      "featureArea": "AppLifecycle-Restart",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cpp-winui-packaged.sln",
+      "relativePath": "AppLifecycle\\RestartRegistration\\cpp-winui-packaged\\cpp-winui-packaged.sln",
+      "featureArea": "AppLifecycle-RestartRegistration",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cs-winui-packaged.sln",
+      "relativePath": "AppLifecycle\\RestartRegistration\\cs-winui-packaged\\cs-winui-packaged.sln",
+      "featureArea": "AppLifecycle-RestartRegistration",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WinUI-CS-ShareTargetSampleApp.sln",
+      "relativePath": "AppLifecycle\\ShareTarget\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.sln",
+      "featureArea": "AppLifecycle-ShareTarget",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinMainState.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cpp\\cpp-win32-unpackaged\\CppWinMainState.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinMainStatePkg.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cpp\\cpp-win32-packaged\\CppWinMainStatePkg.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinRtConsoleState.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleState.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppWinUiDesktopState.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cpp\\cpp-winui-packaged\\CppWinUiDesktopState.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsConsoleState.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cs\\cs-console-unpackaged\\CsConsoleState.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWinFormsState.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cs\\cs-winforms-unpackaged\\CsWinFormsState.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWpfState.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cs\\cs-wpf-unpackaged\\CsWpfState.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWpfStatePkg.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cs1\\cs-wpf-packaged\\CsWpfStatePkg.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cs1",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsWinUiDesktopState.sln",
+      "relativePath": "AppLifecycle\\StateNotifications\\cs2\\cs-winui-packaged\\CsWinUiDesktopState.sln",
+      "featureArea": "AppLifecycle-StateNotifications-cs2",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cpp-winui.sln",
+      "relativePath": "CameraCaptureUI\\cpp-winui\\cpp-winui.sln",
+      "featureArea": "CameraCaptureUI",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cswinui.sln",
+      "relativePath": "CameraCaptureUI\\cswinui\\cswinui.sln",
+      "featureArea": "CameraCaptureUI",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "DynamicRefreshRateTool.sln",
+      "relativePath": "Composition\\DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.sln",
+      "featureArea": "Composition",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "DeploymentManagerSample.sln",
+      "relativePath": "DeploymentManager\\cpp-winui\\DeploymentManagerSample.sln",
+      "featureArea": "DeploymentManager",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "DeploymentManagerSample.sln",
+      "relativePath": "DeploymentManager\\cs-winui\\DeploymentManagerSample.sln",
+      "featureArea": "DeploymentManager",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "Input.sln",
+      "relativePath": "Input\\cs-winui\\Input.sln",
+      "featureArea": "Input",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "Insights.sln",
+      "relativePath": "Insights\\cpp-win32\\Insights.sln",
+      "featureArea": "Insights",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "LaunchInstaller.sln",
+      "relativePath": "Installer\\cpp-console-unpackaged\\LaunchInstaller.sln",
+      "featureArea": "Installer",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "Mica-WebView2.sln",
+      "relativePath": "Mica\\cpp-WebView2\\Mica-WebView2.sln",
+      "featureArea": "Mica",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WinAppSDKMicaSample.sln",
+      "relativePath": "Mica\\cpp-win32\\WinAppSDKMicaSample.sln",
+      "featureArea": "Mica",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cpp-console-unpackaged.sln",
+      "relativePath": "Notifications\\Push\\cpp-console-unpackaged\\cpp-console-unpackaged.sln",
+      "featureArea": "Notifications",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cpp-console.sln",
+      "relativePath": "Notifications\\Push\\cpp-console-packaged\\cpp-console.sln",
+      "featureArea": "Notifications",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cpp-winui.sln",
+      "relativePath": "Notifications\\Badge\\cpp-winui\\cpp-winui.sln",
+      "featureArea": "Notifications",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CppUnpackagedAppNotifications.sln",
+      "relativePath": "Notifications\\App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.sln",
+      "featureArea": "Notifications",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsUnpackagedAppNotifications.sln",
+      "relativePath": "Notifications\\App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.sln",
+      "featureArea": "Notifications",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "cswinui.sln",
+      "relativePath": "Notifications\\Badge\\cswinui\\cswinui.sln",
+      "featureArea": "Notifications",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "PhotoEditor.sln",
+      "relativePath": "PhotoEditor\\cs-winui\\PhotoEditor.sln",
+      "featureArea": "PhotoEditor",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "PhotoEditor.sln",
+      "relativePath": "PhotoEditor\\cpp-winui\\PhotoEditor.sln",
+      "featureArea": "PhotoEditor",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "console_unpackaged_app.sln",
+      "relativePath": "ResourceManagement\\cpp\\cpp-console-unpackaged\\console_unpackaged_app.sln",
+      "featureArea": "ResourceManagement-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "winui_desktop_packaged_app_cpp.sln",
+      "relativePath": "ResourceManagement\\cpp\\cpp-winui\\winui_desktop_packaged_app_cpp.sln",
+      "featureArea": "ResourceManagement-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "winforms_unpackaged_app.sln",
+      "relativePath": "ResourceManagement\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.sln",
+      "featureArea": "ResourceManagement-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "winui_desktop_packaged_app.sln",
+      "relativePath": "ResourceManagement\\cs\\cs-winui\\winui_desktop_packaged_app.sln",
+      "featureArea": "ResourceManagement-cs",
+      "csprojCount": 2,
+      "vcxprojCount": 0,
+      "totalProjectCount": 2
+    },
+    {
+      "solutionName": "wpf_packaged_app.sln",
+      "relativePath": "ResourceManagement\\cs1\\cs-wpf\\wpf_packaged_app.sln",
+      "featureArea": "ResourceManagement-cs1",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cpp\\cpp-winui-unpackaged\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cpp\\cpp-winui-packaged\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cpp\\cpp-console-unpackaged\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cs\\cs-wpf-unpackaged\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cs\\cs-console-unpackaged\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cs1\\cs-winui-packaged-wap\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cs1",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cs2\\cs-winui-packaged\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cs2",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SelfContainedDeployment.sln",
+      "relativePath": "SelfContainedDeployment\\cs2\\cs-winui-unpackaged\\SelfContainedDeployment.sln",
+      "featureArea": "SelfContainedDeployment-cs2",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "DWriteCoreGallery.sln",
+      "relativePath": "TextRendering\\cpp-win32\\DWriteCoreGallery.sln",
+      "featureArea": "TextRendering",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "Unpackaged.sln",
+      "relativePath": "Unpackaged\\cpp-console-unpackaged\\Unpackaged.sln",
+      "featureArea": "Unpackaged",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "Unpackaged.sln",
+      "relativePath": "Unpackaged\\cs-console-unpackaged\\Unpackaged.sln",
+      "featureArea": "Unpackaged",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WinFormsApp.sln",
+      "relativePath": "Unpackaged\\cs-winforms-unpackaged\\WinFormsApp.sln",
+      "featureArea": "Unpackaged",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "CsConsoleWidgetProvider.sln",
+      "relativePath": "Widgets\\cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.sln",
+      "featureArea": "Widgets",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SampleWidgets.sln",
+      "relativePath": "Widgets\\cpp-win32-packaged\\SampleWidgets.sln",
+      "featureArea": "Widgets",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "SampleApp.sln",
+      "relativePath": "Windowing\\cpp\\cpp-winui\\SampleApp.sln",
+      "featureArea": "Windowing-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "Windowing.sln",
+      "relativePath": "Windowing\\cpp\\cpp-win32\\Windowing.sln",
+      "featureArea": "Windowing-cpp",
+      "csprojCount": 0,
+      "vcxprojCount": 1,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "Windowing.sln",
+      "relativePath": "Windowing\\cs\\cs-winui\\Windowing.sln",
+      "featureArea": "Windowing-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "winforms_unpackaged_app.sln",
+      "relativePath": "Windowing\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.sln",
+      "featureArea": "Windowing-cs",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "wpf_packaged_app.sln",
+      "relativePath": "Windowing\\cs1\\cs-wpf\\wpf_packaged_app.sln",
+      "featureArea": "Windowing-cs1",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WindowsAISample.sln",
+      "relativePath": "WindowsAIFoundry\\cs-Winforms-Pckg\\WindowsAISample.sln",
+      "featureArea": "WindowsAIFoundry-cs--Winforms--Pckg",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WindowsAISampleForWinForms.sln",
+      "relativePath": "WindowsAIFoundry\\cs-Winforms-Sparse\\WindowsAISampleForWinForms.sln",
+      "featureArea": "WindowsAIFoundry-cs--Winforms--Sparse",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WindowsAISample.sln",
+      "relativePath": "WindowsAIFoundry\\cs-WinUI\\WindowsAISample.sln",
+      "featureArea": "WindowsAIFoundry-cs--WinUI",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WindowsAISampleForWPF.sln",
+      "relativePath": "WindowsAIFoundry\\cs-Wpf\\WindowsAISampleForWPF.sln",
+      "featureArea": "WindowsAIFoundry-cs--Wpf",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    },
+    {
+      "solutionName": "WindowsAISampleForWPF.sln",
+      "relativePath": "WindowsAIFoundry\\cs-Wpf-Sparse\\WindowsAISampleForWPF.sln",
+      "featureArea": "WindowsAIFoundry-cs--Wpf--Sparse",
+      "csprojCount": 1,
+      "vcxprojCount": 0,
+      "totalProjectCount": 1
+    }
+  ]
+}
