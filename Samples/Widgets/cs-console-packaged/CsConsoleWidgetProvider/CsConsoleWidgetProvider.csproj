@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.250515001-experimental2" />
+    <PackageReference Include="Microsoft.WindowsAppSDK.Foundation" Version="1.8.250507001-experimental" />
   </ItemGroup>
 
   <!-- 
@@ -46,3 +46,4 @@
 
   <Import Project="..\WidgetHelper\WidgetHelper.projitems" Label="Shared" />
 </Project>
+
