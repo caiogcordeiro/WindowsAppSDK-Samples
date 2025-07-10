@@ -27,6 +27,7 @@ try {
 $totalProcessed = 0
 $totalUpdated = 0
 $totalErrors = 0
+$notUpdatedFiles = @()
 
 Write-Host "Processing solutions to find and update .csproj files..." -ForegroundColor Yellow
 Write-Host ""
@@ -67,11 +68,11 @@ foreach ($solution in $projectData.solutions) {
                 $originalContent = $content
                 $totalProcessed++
                 
-                # Check if it contains the target PackageReference
-                if ($content -match 'PackageReference\s+Include="Microsoft\.WindowsAppSDK"\s+Version="1\.8\.250515001-experimental2"') {
-                    # Replace the PackageReference
+                # Check if it contains any Microsoft.WindowsAppSDK PackageReference
+                if ($content -match 'PackageReference\s+Include="Microsoft\.WindowsAppSDK"[^>]*Version="[^"]*"') {
+                    # Replace any Microsoft.WindowsAppSDK PackageReference (regardless of version)
                     $updatedContent = $content -replace 
-                        'PackageReference\s+Include="Microsoft\.WindowsAppSDK"\s+Version="1\.8\.250515001-experimental2"',
+                        'PackageReference\s+Include="Microsoft\.WindowsAppSDK"([^>]*)Version="[^"]*"',
                         'PackageReference Include="Microsoft.WindowsAppSDK.Foundation" Version="1.8.250507001-experimental"'
                     
                     # Write the updated content back to the file
@@ -80,7 +81,8 @@ foreach ($solution in $projectData.solutions) {
                     Write-Host "      ✅ Updated PackageReference" -ForegroundColor Green
                     $totalUpdated++
                 } else {
-                    Write-Host "      ℹ️  No matching PackageReference found" -ForegroundColor Gray
+                    Write-Host "      ℹ️  No Microsoft.WindowsAppSDK PackageReference found" -ForegroundColor Gray
+                    $notUpdatedFiles += $csprojFile.FullName
                 }
                 
             } catch {
@@ -97,16 +99,26 @@ foreach ($solution in $projectData.solutions) {
 Write-Host "=== SUMMARY ===" -ForegroundColor Yellow
 Write-Host "Total .csproj files processed: $totalProcessed" -ForegroundColor Cyan
 Write-Host "Total files updated: $totalUpdated" -ForegroundColor Green
+Write-Host "Total files not updated: $($notUpdatedFiles.Count)" -ForegroundColor Yellow
 Write-Host "Total errors: $totalErrors" -ForegroundColor Red
 
 if ($totalUpdated -gt 0) {
     Write-Host ""
     Write-Host "✅ Successfully updated PackageReference in $totalUpdated .csproj files" -ForegroundColor Green
-    Write-Host "   From: Microsoft.WindowsAppSDK Version 1.8.250515001-experimental2" -ForegroundColor Gray
+    Write-Host "   From: Microsoft.WindowsAppSDK Version <any>" -ForegroundColor Gray
     Write-Host "   To:   Microsoft.WindowsAppSDK.Foundation Version 1.8.250507001-experimental" -ForegroundColor Gray
 } else {
     Write-Host ""
     Write-Host "ℹ️  No files required updates" -ForegroundColor Yellow
+}
+
+if ($notUpdatedFiles.Count -gt 0) {
+    Write-Host ""
+    Write-Host "Files not updated (no Microsoft.WindowsAppSDK PackageReference found):" -ForegroundColor Yellow
+    foreach ($file in $notUpdatedFiles) {
+        $relativePath = $file.Replace($SamplesPath, "").TrimStart('\')
+        Write-Host "  - $relativePath" -ForegroundColor Gray
+    }
 }
 
 Write-Host ""
