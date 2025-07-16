@@ -24,7 +24,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Graphics.Win2D" Version="1.0.3.1" />
-    <PackageReference Include="Microsoft.WindowsAppSDK.Foundation" Version="1.8.250507001-experimental" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.250515001-experimental2" />
     <Manifest Include="$(ApplicationManifest)" />
   </ItemGroup>
 
@@ -35,5 +35,4 @@
     <ProjectCapability Include="Msix" />
   </ItemGroup>
 </Project>
-
 

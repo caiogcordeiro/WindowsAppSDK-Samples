@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.WindowsAppSDK.Foundation" Version="1.8.250507001-experimental" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.250515001-experimental2" />
     <Manifest Include="$(ApplicationManifest)" />
   </ItemGroup>
 
@@ -53,5 +53,4 @@
     <HasPackageAndPublishMenu>true</HasPackageAndPublishMenu>
   </PropertyGroup>
 </Project>
-
 
