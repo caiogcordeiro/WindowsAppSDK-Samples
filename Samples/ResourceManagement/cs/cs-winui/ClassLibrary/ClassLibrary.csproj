@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net6.0-windows10.0.19041.0</TargetFramework>
@@ -5,6 +6,7 @@
     <RootNamespace>ClassLibrary</RootNamespace>
     <Platforms>x86;x64;ARM64</Platforms>
     <RuntimeIdentifiers>win10-x86;win10-x64;win10-arm64</RuntimeIdentifiers>
+    <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="ClassLibraryResources.resw" />
@@ -12,9 +14,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.250515001-experimental2" />
   </ItemGroup>
-
   <ItemGroup>
     <PRIResource Include="ClassLibraryResources.resw" />
   </ItemGroup>
 </Project>
-
