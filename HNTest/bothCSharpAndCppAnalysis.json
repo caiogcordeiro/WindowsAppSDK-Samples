@@ -1,0 +1,3747 @@
+{
+  "summary": {
+    "percentageMixed": 0.0,
+    "frameworkDependentSolutions": 74,
+    "mixedSolutions": 0,
+    "totalCSharpSolutions": 44,
+    "percentageUnknown": 0.0,
+    "timestamp": "2025-07-18 16:52:59",
+    "percentageSelfContained": 9.76,
+    "totalFrameworkDependentProjects": 75,
+    "totalSolutionsScanned": 82,
+    "unknownSolutions": 0,
+    "percentageFrameworkDependent": 90.24,
+    "totalUnknownProjects": 0,
+    "selfContainedSolutions": 8,
+    "totalCppSolutions": 38,
+    "totalSelfContainedProjects": 8
+  },
+  "solutions": [
+    {
+      "totalProjectCount": 1,
+      "featureArea": "DeploymentManager",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui\\DeploymentManagerSample.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cpp-winui\\DeploymentManagerSample.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "DeploymentManagerSample",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cpp-winui\\DeploymentManagerSample.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "DeploymentManagerSample",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cpp-winui\\DeploymentManagerSample.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "DeploymentManagerSample",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cpp-winui\\DeploymentManagerSample.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\deploymentmanager\\cpp-winui\\deploymentmanagersample.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "DeploymentManager",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui\\DeploymentManagerSample.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "DeploymentManagerSample",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cs-winui\\DeploymentManagerSample.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "DeploymentManagerSample",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cs-winui\\DeploymentManagerSample.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cs-winui\\DeploymentManagerSample.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "DeploymentManagerSample",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\DeploymentManager\\cs-winui\\DeploymentManagerSample.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\deploymentmanager\\cs-winui\\deploymentmanagersample.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Installer",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\LaunchInstaller.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Installer\\cpp-console-unpackaged\\LaunchInstaller.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "LaunchInstaller",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Installer\\cpp-console-unpackaged\\LaunchInstaller.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "LaunchInstaller",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Installer\\cpp-console-unpackaged\\LaunchInstaller.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "LaunchInstaller",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Installer\\cpp-console-unpackaged\\LaunchInstaller.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\installer\\cpp-console-unpackaged\\launchinstaller.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "PhotoEditor",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui\\PhotoEditor.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cpp-winui\\PhotoEditor\\PhotoEditor.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "PhotoEditor",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cpp-winui\\PhotoEditor\\PhotoEditor.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "PhotoEditor",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cpp-winui\\PhotoEditor\\PhotoEditor.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "PhotoEditor",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cpp-winui\\PhotoEditor\\PhotoEditor.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\photoeditor\\cpp-winui\\photoeditor.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "PhotoEditor",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui\\PhotoEditor.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "PhotoEditor",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cs-winui\\PhotoEditor.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "PhotoEditor",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cs-winui\\PhotoEditor.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cs-winui\\PhotoEditor.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "PhotoEditor",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\PhotoEditor\\cs-winui\\PhotoEditor.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\photoeditor\\cs-winui\\photoeditor.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "TextRendering",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32\\DWriteCoreGallery.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\TextRendering\\cpp-win32\\DWriteCoreGallery\\DWriteCoreGallery.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "DWriteCoreGallery",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\TextRendering\\cpp-win32\\DWriteCoreGallery\\DWriteCoreGallery.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "DWriteCoreGallery",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\TextRendering\\cpp-win32\\DWriteCoreGallery\\DWriteCoreGallery.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "DWriteCoreGallery",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\TextRendering\\cpp-win32\\DWriteCoreGallery\\DWriteCoreGallery.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\textrendering\\cpp-win32\\dwritecoregallery.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Unpackaged",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\Unpackaged.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cpp-console-unpackaged\\Unpackaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "Unpackaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cpp-console-unpackaged\\Unpackaged.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "Unpackaged",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cpp-console-unpackaged\\Unpackaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "Unpackaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cpp-console-unpackaged\\Unpackaged.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\unpackaged\\cpp-console-unpackaged\\unpackaged.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Unpackaged",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-console-unpackaged\\Unpackaged.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "Unpackaged",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-console-unpackaged\\Unpackaged.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "Unpackaged",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-console-unpackaged\\Unpackaged.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-console-unpackaged\\Unpackaged.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "Unpackaged",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-console-unpackaged\\Unpackaged.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\unpackaged\\cs-console-unpackaged\\unpackaged.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Unpackaged",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winforms-unpackaged\\WinFormsApp.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "WinFormsApp",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-winforms-unpackaged\\WinFormsApp.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WinFormsApp",
+          "targetFramework": "net8.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-winforms-unpackaged\\WinFormsApp.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-winforms-unpackaged\\WinFormsApp.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WinFormsApp",
+          "targetFramework": "net8.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Unpackaged\\cs-winforms-unpackaged\\WinFormsApp.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\unpackaged\\cs-winforms-unpackaged\\winformsapp.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Notifications",
+      "cppUnknownProjects": [],
+      "relativePath": "App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppUnpackagedAppNotifications",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppUnpackagedAppNotifications",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppUnpackagedAppNotifications",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications\\CppUnpackagedAppNotifications.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\notifications\\app\\cppunpackagedappnotifications\\cppunpackagedappnotifications.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Notifications",
+      "cppUnknownProjects": [],
+      "relativePath": "App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsUnpackagedAppNotifications",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsUnpackagedAppNotifications",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsUnpackagedAppNotifications",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\App\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications\\CsUnpackagedAppNotifications.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\notifications\\app\\csunpackagedappnotifications\\csunpackagedappnotifications.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Notifications",
+      "cppUnknownProjects": [],
+      "relativePath": "Badge\\cpp-winui\\cpp-winui.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cpp-winui\\cpp-winui.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-winui",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cpp-winui\\cpp-winui.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "cpp-winui",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cpp-winui\\cpp-winui.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-winui",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cpp-winui\\cpp-winui.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\notifications\\badge\\cpp-winui\\cpp-winui.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Notifications",
+      "cppUnknownProjects": [],
+      "relativePath": "Badge\\cswinui\\cswinui.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "cswinui",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cswinui\\cswinui.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cswinui",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cswinui\\cswinui.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cswinui\\cswinui.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cswinui",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Badge\\cswinui\\cswinui.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\notifications\\badge\\cswinui\\cswinui.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Notifications",
+      "cppUnknownProjects": [],
+      "relativePath": "Push\\cpp-console-packaged\\cpp-console.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-packaged\\cpp-console.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-console",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-packaged\\cpp-console.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "cpp-console",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-packaged\\cpp-console.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-console",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-packaged\\cpp-console.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\notifications\\push\\cpp-console-packaged\\cpp-console.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Notifications",
+      "cppUnknownProjects": [],
+      "relativePath": "Push\\cpp-console-unpackaged\\cpp-console-unpackaged.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-console-unpackaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "cpp-console-unpackaged",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-console-unpackaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Notifications\\Push\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\notifications\\push\\cpp-console-unpackaged\\cpp-console-unpackaged.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Widgets",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-packaged\\SampleWidgets.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cpp-win32-packaged\\SampleWidgetProviderApp\\SampleWidgetProviderApp.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "SampleWidgetProviderApp",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": [
+            []
+          ],
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cpp-win32-packaged\\SampleWidgetProviderApp\\SampleWidgetProviderApp.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "SampleWidgets",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cpp-win32-packaged\\SampleWidgetProviderApp\\SampleWidgetProviderApp.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "SampleWidgetProviderApp",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": [
+            []
+          ],
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cpp-win32-packaged\\SampleWidgetProviderApp\\SampleWidgetProviderApp.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\widgets\\cpp-win32-packaged\\samplewidgets.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Widgets",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsConsoleWidgetProvider",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleWidgetProvider",
+          "targetFramework": "net6.0-windows10.0.18362.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleWidgetProvider",
+          "targetFramework": "net6.0-windows10.0.18362.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Widgets\\cs-console-packaged\\CsConsoleWidgetProvider\\CsConsoleWidgetProvider.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\widgets\\cs-console-packaged\\csconsolewidgetprovider\\csconsolewidgetprovider.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Composition",
+      "cppUnknownProjects": [],
+      "relativePath": "DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Composition\\DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "DynamicRefreshRateTool",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Composition\\DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "DynamicRefreshRateTool",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Composition\\DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "DynamicRefreshRateTool",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Composition\\DynamicRefreshRateTool\\cpp-winui\\DynamicRefreshRateTool.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\composition\\dynamicrefreshratetool\\cpp-winui\\dynamicrefreshratetool.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Insights",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32\\Insights.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Insights\\cpp-win32\\InsightsSample.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "InsightsSample",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Insights\\cpp-win32\\InsightsSample.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "Insights",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Insights\\cpp-win32\\InsightsSample.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "InsightsSample",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Insights\\cpp-win32\\InsightsSample.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\insights\\cpp-win32\\insights.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleActivation.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleActivation\\CppWinRtConsoleActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleActivation\\CppWinRtConsoleActivation.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinRtConsoleActivation",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleActivation\\CppWinRtConsoleActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleActivation\\CppWinRtConsoleActivation.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cpp\\cpp-console-unpackaged\\cppwinrtconsoleactivation.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-packaged\\CppWinMainActivationPkg.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-packaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-packaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "CppWinMainActivationPkg",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-packaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-packaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cpp\\cpp-win32-packaged\\cppwinmainactivationpkg.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-unpackaged\\CppWinMainActivation.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-unpackaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-unpackaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinMainActivation",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-unpackaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-win32-unpackaged\\CppWinMainActivation\\CppWinMainActivation.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cpp\\cpp-win32-unpackaged\\cppwinmainactivation.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui-packaged\\CppWinUiDesktopActivation.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-winui-packaged\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinUiDesktopActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-winui-packaged\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "CppWinUiDesktopActivation",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-winui-packaged\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinUiDesktopActivation",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cpp\\cpp-winui-packaged\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation\\CppWinUiDesktopActivation.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cpp\\cpp-winui-packaged\\cppwinuidesktopactivation.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-console-unpackaged\\CsConsoleActivation.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsConsoleActivation",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-console-unpackaged\\CsConsoleActivation\\CsConsoleActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-console-unpackaged\\CsConsoleActivation\\CsConsoleActivation.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-console-unpackaged\\CsConsoleActivation\\CsConsoleActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-console-unpackaged\\CsConsoleActivation\\CsConsoleActivation.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cs\\cs-console-unpackaged\\csconsoleactivation.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winforms-unpackaged\\CsWinFormsActivation.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsWinFormsActivation",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-winforms-unpackaged\\CsWinFormsActivation\\CsWinFormsActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-winforms-unpackaged\\CsWinFormsActivation\\CsWinFormsActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-winforms-unpackaged\\CsWinFormsActivation\\CsWinFormsActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-winforms-unpackaged\\CsWinFormsActivation\\CsWinFormsActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cs\\cs-winforms-unpackaged\\cswinformsactivation.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf-unpackaged\\CsWpfActivation.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsWpfActivation",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-wpf-unpackaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-wpf-unpackaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-wpf-unpackaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs\\cs-wpf-unpackaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cs\\cs-wpf-unpackaged\\cswpfactivation.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cs1",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf-packaged\\CsWpfActivationPkg.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "CsWpfActivationPkg",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs1\\cs-wpf-packaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs1\\cs-wpf-packaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs1\\cs-wpf-packaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs1\\cs-wpf-packaged\\CsWpfActivation\\CsWpfActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cs1\\cs-wpf-packaged\\cswpfactivationpkg.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Activation-cs2",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-packaged\\CsWinUiDesktopActivation.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "CsWinUiDesktopActivation",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs2\\cs-winui-packaged\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinUiDesktopActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs2\\cs-winui-packaged\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs2\\cs-winui-packaged\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinUiDesktopActivation",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Activation\\cs2\\cs-winui-packaged\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation\\CsWinUiDesktopActivation.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\activation\\cs2\\cs-winui-packaged\\cswinuidesktopactivation.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleInstancing.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleInstancing\\CppWinRtConsoleInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleInstancing\\CppWinRtConsoleInstancing.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinRtConsoleInstancing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleInstancing\\CppWinRtConsoleInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleInstancing\\CppWinRtConsoleInstancing.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cpp\\cpp-console-unpackaged\\cppwinrtconsoleinstancing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-packaged\\CppWinMainInstancingPkg.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-packaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-packaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "CppWinMainInstancingPkg",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-packaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-packaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cpp\\cpp-win32-packaged\\cppwinmaininstancingpkg.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-unpackaged\\CppWinMainInstancing.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-unpackaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-unpackaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinMainInstancing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-unpackaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-win32-unpackaged\\CppWinMainInstancing\\CppWinMainInstancing.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cpp\\cpp-win32-unpackaged\\cppwinmaininstancing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui-packaged\\CppWinUiDesktopInstancing.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-winui-packaged\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinUiDesktopInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-winui-packaged\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "CppWinUiDesktopInstancing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-winui-packaged\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinUiDesktopInstancing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cpp\\cpp-winui-packaged\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing\\CppWinUiDesktopInstancing.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cpp\\cpp-winui-packaged\\cppwinuidesktopinstancing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-console-unpackaged\\CsConsoleInstancing.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsConsoleInstancing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-console-unpackaged\\CsConsoleInstancing\\CsConsoleInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-console-unpackaged\\CsConsoleInstancing\\CsConsoleInstancing.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-console-unpackaged\\CsConsoleInstancing\\CsConsoleInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-console-unpackaged\\CsConsoleInstancing\\CsConsoleInstancing.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cs\\cs-console-unpackaged\\csconsoleinstancing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winforms-unpackaged\\CsWinFormsInstancing.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsWinFormsInstancing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-winforms-unpackaged\\CsWinFormsInstancing\\CsWinFormsInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-winforms-unpackaged\\CsWinFormsInstancing\\CsWinFormsInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-winforms-unpackaged\\CsWinFormsInstancing\\CsWinFormsInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-winforms-unpackaged\\CsWinFormsInstancing\\CsWinFormsInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cs\\cs-winforms-unpackaged\\cswinformsinstancing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf-unpackaged\\CsWpfInstancing.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsWpfInstancing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-wpf-unpackaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-wpf-unpackaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-wpf-unpackaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs\\cs-wpf-unpackaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cs\\cs-wpf-unpackaged\\cswpfinstancing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cs1",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf-packaged\\CsWpfInstancingPkg.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "CsWpfInstancingPkg",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs1\\cs-wpf-packaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs1\\cs-wpf-packaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs1\\cs-wpf-packaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs1\\cs-wpf-packaged\\CsWpfInstancing\\CsWpfInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cs1\\cs-wpf-packaged\\cswpfinstancingpkg.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Instancing-cs2",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-packaged\\CsWinUiDesktopInstancing.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "CsWinUiDesktopInstancing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs2\\cs-winui-packaged\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinUiDesktopInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs2\\cs-winui-packaged\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs2\\cs-winui-packaged\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinUiDesktopInstancing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Instancing\\cs2\\cs-winui-packaged\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing\\CsWinUiDesktopInstancing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\instancing\\cs2\\cs-winui-packaged\\cswinuidesktopinstancing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleState.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleState\\CppWinRtConsoleState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleState\\CppWinRtConsoleState.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinRtConsoleState",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleState\\CppWinRtConsoleState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-console-unpackaged\\CppWinRtConsoleState\\CppWinRtConsoleState.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cpp\\cpp-console-unpackaged\\cppwinrtconsolestate.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-packaged\\CppWinMainStatePkg.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-packaged\\CppWinMainState\\CppWinMainState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-packaged\\CppWinMainState\\CppWinMainState.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "CppWinMainStatePkg",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-packaged\\CppWinMainState\\CppWinMainState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-packaged\\CppWinMainState\\CppWinMainState.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cpp\\cpp-win32-packaged\\cppwinmainstatepkg.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-unpackaged\\CppWinMainState.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-unpackaged\\CppWinMainState\\CppWinMainState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-unpackaged\\CppWinMainState\\CppWinMainState.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinMainState",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-unpackaged\\CppWinMainState\\CppWinMainState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-win32-unpackaged\\CppWinMainState\\CppWinMainState.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cpp\\cpp-win32-unpackaged\\cppwinmainstate.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui-packaged\\CppWinUiDesktopState.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-winui-packaged\\CppWinUiDesktopState\\CppWinUiDesktopState\\CppWinUiDesktopState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinUiDesktopState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-winui-packaged\\CppWinUiDesktopState\\CppWinUiDesktopState\\CppWinUiDesktopState.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "CppWinUiDesktopState",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-winui-packaged\\CppWinUiDesktopState\\CppWinUiDesktopState\\CppWinUiDesktopState.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinUiDesktopState",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cpp\\cpp-winui-packaged\\CppWinUiDesktopState\\CppWinUiDesktopState\\CppWinUiDesktopState.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cpp\\cpp-winui-packaged\\cppwinuidesktopstate.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-console-unpackaged\\CsConsoleState.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsConsoleState",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-console-unpackaged\\CsConsoleState\\CsConsoleState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-console-unpackaged\\CsConsoleState\\CsConsoleState.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-console-unpackaged\\CsConsoleState\\CsConsoleState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsConsoleState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-console-unpackaged\\CsConsoleState\\CsConsoleState.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cs\\cs-console-unpackaged\\csconsolestate.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winforms-unpackaged\\CsWinFormsState.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsWinFormsState",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-winforms-unpackaged\\CsWinFormsState\\CsWinFormsState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-winforms-unpackaged\\CsWinFormsState\\CsWinFormsState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-winforms-unpackaged\\CsWinFormsState\\CsWinFormsState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-winforms-unpackaged\\CsWinFormsState\\CsWinFormsState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cs\\cs-winforms-unpackaged\\cswinformsstate.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf-unpackaged\\CsWpfState.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsWpfState",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-wpf-unpackaged\\CsWpfState\\CsWpfState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-wpf-unpackaged\\CsWpfState\\CsWpfState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-wpf-unpackaged\\CsWpfState\\CsWpfState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs\\cs-wpf-unpackaged\\CsWpfState\\CsWpfState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cs\\cs-wpf-unpackaged\\cswpfstate.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cs1",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf-packaged\\CsWpfStatePkg.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "CsWpfStatePkg",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs1\\cs-wpf-packaged\\CsWpfState\\CsWpfState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs1\\cs-wpf-packaged\\CsWpfState\\CsWpfState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs1\\cs-wpf-packaged\\CsWpfState\\CsWpfState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWpfState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs1\\cs-wpf-packaged\\CsWpfState\\CsWpfState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cs1\\cs-wpf-packaged\\cswpfstatepkg.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-StateNotifications-cs2",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-packaged\\CsWinUiDesktopState.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "CsWinUiDesktopState",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs2\\cs-winui-packaged\\CsWinUiDesktopState\\CsWinUiDesktopState\\CsWinUiDesktopState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinUiDesktopState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs2\\cs-winui-packaged\\CsWinUiDesktopState\\CsWinUiDesktopState\\CsWinUiDesktopState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs2\\cs-winui-packaged\\CsWinUiDesktopState\\CsWinUiDesktopState\\CsWinUiDesktopState.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinUiDesktopState",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\StateNotifications\\cs2\\cs-winui-packaged\\CsWinUiDesktopState\\CsWinUiDesktopState\\CsWinUiDesktopState.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\statenotifications\\cs2\\cs-winui-packaged\\cswinuidesktopstate.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-EnvironmentVariables",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\CppWinRtConsoleEnv.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-console-unpackaged\\CppWinRtConsoleEnv\\CppWinRtConsoleEnv.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleEnv",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-console-unpackaged\\CppWinRtConsoleEnv\\CppWinRtConsoleEnv.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinRtConsoleEnv",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-console-unpackaged\\CppWinRtConsoleEnv\\CppWinRtConsoleEnv.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinRtConsoleEnv",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-console-unpackaged\\CppWinRtConsoleEnv\\CppWinRtConsoleEnv.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\environmentvariables\\cpp-console-unpackaged\\cppwinrtconsoleenv.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-EnvironmentVariables",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32-unpackaged\\CppWinMainEnv.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-win32-unpackaged\\CppWinMainEnv\\CppWinMainEnv.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainEnv",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-win32-unpackaged\\CppWinMainEnv\\CppWinMainEnv.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "CppWinMainEnv",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-win32-unpackaged\\CppWinMainEnv\\CppWinMainEnv.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "CppWinMainEnv",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cpp-win32-unpackaged\\CppWinMainEnv\\CppWinMainEnv.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\environmentvariables\\cpp-win32-unpackaged\\cppwinmainenv.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-EnvironmentVariables",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winforms-unpackaged\\CsWinFormsEnv.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "CsWinFormsEnv",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cs-winforms-unpackaged\\CsWinFormsEnv\\CsWinFormsEnv.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsEnv",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cs-winforms-unpackaged\\CsWinFormsEnv\\CsWinFormsEnv.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cs-winforms-unpackaged\\CsWinFormsEnv\\CsWinFormsEnv.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "CsWinFormsEnv",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\EnvironmentVariables\\cs-winforms-unpackaged\\CsWinFormsEnv\\CsWinFormsEnv.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\environmentvariables\\cs-winforms-unpackaged\\cswinformsenv.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Restart",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\cpp-console-unpackaged.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-console-unpackaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "cpp-console-unpackaged",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-console-unpackaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cpp-console-unpackaged\\cpp-console-unpackaged.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\restart\\cpp-console-unpackaged\\cpp-console-unpackaged.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-Restart",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-packaged\\cs-winui-packaged.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "cs-winui-packaged",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cs-winui-packaged\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cs-winui-packaged",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cs-winui-packaged\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cs-winui-packaged\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cs-winui-packaged",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\Restart\\cs-winui-packaged\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\restart\\cs-winui-packaged\\cs-winui-packaged.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-RestartRegistration",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui-packaged\\cpp-winui-packaged.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cpp-winui-packaged\\cpp-winui-packaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-winui-packaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cpp-winui-packaged\\cpp-winui-packaged.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "cpp-winui-packaged",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cpp-winui-packaged\\cpp-winui-packaged.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-winui-packaged",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cpp-winui-packaged\\cpp-winui-packaged.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\restartregistration\\cpp-winui-packaged\\cpp-winui-packaged.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-RestartRegistration",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-packaged\\cs-winui-packaged.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "cs-winui-packaged",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cs-winui-packaged",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cs-winui-packaged",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\RestartRegistration\\cs-winui-packaged\\cs-winui-packaged.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\restartregistration\\cs-winui-packaged\\cs-winui-packaged.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "AppLifecycle-ShareTarget",
+      "cppUnknownProjects": [],
+      "relativePath": "WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "WinUI-CS-ShareTargetSampleApp",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\ShareTarget\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WinUI-CS-ShareTargetSampleApp",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\ShareTarget\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\ShareTarget\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WinUI-CS-ShareTargetSampleApp",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\AppLifecycle\\ShareTarget\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp\\WinUI-CS-ShareTargetSampleApp.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\applifecycle\\sharetarget\\winui-cs-sharetargetsampleapp\\winui-cs-sharetargetsampleapp.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "CameraCaptureUI",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui\\cpp-winui.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cpp-winui\\cpp-winui\\cpp-winui.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-winui",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cpp-winui\\cpp-winui\\cpp-winui.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "cpp-winui",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cpp-winui\\cpp-winui\\cpp-winui.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "cpp-winui",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cpp-winui\\cpp-winui\\cpp-winui.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\cameracaptureui\\cpp-winui\\cpp-winui.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "CameraCaptureUI",
+      "cppUnknownProjects": [],
+      "relativePath": "cswinui\\cswinui.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "cswinui",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cswinui\\cswinui\\cswinui.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cswinui",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cswinui\\cswinui\\cswinui.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cswinui\\cswinui\\cswinui.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "cswinui",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\CameraCaptureUI\\cswinui\\cswinui\\cswinui.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\cameracaptureui\\cswinui\\cswinui.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "ResourceManagement-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\console_unpackaged_app.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-console-unpackaged\\console_unpackaged_app.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "console_unpackaged_app",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-console-unpackaged\\console_unpackaged_app.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "console_unpackaged_app",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-console-unpackaged\\console_unpackaged_app.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "console_unpackaged_app",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-console-unpackaged\\console_unpackaged_app.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\resourcemanagement\\cpp\\cpp-console-unpackaged\\console_unpackaged_app.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "ResourceManagement-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui\\winui_desktop_packaged_app_cpp.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-winui\\winui_desktop_packaged_app_cpp\\winui_desktop_packaged_app_cpp.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "winui_desktop_packaged_app_cpp",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-winui\\winui_desktop_packaged_app_cpp\\winui_desktop_packaged_app_cpp.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "winui_desktop_packaged_app_cpp",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-winui\\winui_desktop_packaged_app_cpp\\winui_desktop_packaged_app_cpp.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "winui_desktop_packaged_app_cpp",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cpp\\cpp-winui\\winui_desktop_packaged_app_cpp\\winui_desktop_packaged_app_cpp.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\resourcemanagement\\cpp\\cpp-winui\\winui_desktop_packaged_app_cpp.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "ResourceManagement-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winforms-unpackaged\\winforms_unpackaged_app.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "winforms_unpackaged_app",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "winforms_unpackaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "winforms_unpackaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\resourcemanagement\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.sln"
+    },
+    {
+      "totalProjectCount": 2,
+      "featureArea": "ResourceManagement-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui\\winui_desktop_packaged_app.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "winui_desktop_packaged_app",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 2,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\winui_desktop_packaged_app\\winui_desktop_packaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "winui_desktop_packaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\winui_desktop_packaged_app\\winui_desktop_packaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        },
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\ClassLibrary\\ClassLibrary.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "ClassLibrary",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\ClassLibrary\\ClassLibrary.csproj",
+          "outputType": null,
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\winui_desktop_packaged_app\\winui_desktop_packaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "winui_desktop_packaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\winui_desktop_packaged_app\\winui_desktop_packaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        },
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\ClassLibrary\\ClassLibrary.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "ClassLibrary",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs\\cs-winui\\ClassLibrary\\ClassLibrary.csproj",
+          "outputType": null,
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\resourcemanagement\\cs\\cs-winui\\winui_desktop_packaged_app.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "ResourceManagement-cs1",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf\\wpf_packaged_app.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "wpf_packaged_app",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "wpf_packaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "wpf_packaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\ResourceManagement\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\resourcemanagement\\cs1\\cs-wpf\\wpf_packaged_app.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Input",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui\\Input.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "Input",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Input\\cs-winui\\Input.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "Input",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Input\\cs-winui\\Input.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Input\\cs-winui\\Input.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "Input",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Input\\cs-winui\\Input.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\input\\cs-winui\\input.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Mica",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-WebView2\\Mica-WebView2.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-WebView2\\Mica-WebView2\\MicaWebView2.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "MicaWebView2",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-WebView2\\Mica-WebView2\\MicaWebView2.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "Mica-WebView2",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-WebView2\\Mica-WebView2\\MicaWebView2.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "MicaWebView2",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-WebView2\\Mica-WebView2\\MicaWebView2.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\mica\\cpp-webview2\\mica-webview2.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Mica",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32\\WinAppSDKMicaSample.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-win32\\WinAppSDKMicaSample\\WinAppSDKMicaSample.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "WinAppSDKMicaSample",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-win32\\WinAppSDKMicaSample\\WinAppSDKMicaSample.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "WinAppSDKMicaSample",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-win32\\WinAppSDKMicaSample\\WinAppSDKMicaSample.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "WinAppSDKMicaSample",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Mica\\cpp-win32\\WinAppSDKMicaSample\\WinAppSDKMicaSample.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\mica\\cpp-win32\\winappsdkmicasample.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Windowing-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-win32\\Windowing.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-win32\\Windowing\\Windowing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "Windowing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-win32\\Windowing\\Windowing.vcxproj"
+        }
+      ],
+      "hasWapProj": false,
+      "solutionName": "Windowing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-win32\\Windowing\\Windowing.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "Windowing",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-win32\\Windowing\\Windowing.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowing\\cpp\\cpp-win32\\windowing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Windowing-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui\\SampleApp.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-winui\\SampleApp\\SampleApp.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "SampleApp",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-winui\\SampleApp\\SampleApp.vcxproj"
+        }
+      ],
+      "hasWapProj": true,
+      "solutionName": "SampleApp",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-winui\\SampleApp\\SampleApp.vcxproj",
+          "analysis": [
+            "Default: Framework-Dependent (C++)"
+          ],
+          "deploymentType": "Framework-Dependent",
+          "projectName": "SampleApp",
+          "windowsAppSDKSelfContained": null,
+          "platformToolset": null,
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cpp\\cpp-winui\\SampleApp\\SampleApp.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowing\\cpp\\cpp-winui\\sampleapp.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Windowing-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winforms-unpackaged\\winforms_unpackaged_app.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "winforms_unpackaged_app",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "winforms_unpackaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "winforms_unpackaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowing\\cs\\cs-winforms-unpackaged\\winforms_unpackaged_app.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Windowing-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui\\Windowing.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "Windowing",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winui\\Windowing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "Windowing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winui\\Windowing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winui\\Windowing.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "Windowing",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs\\cs-winui\\Windowing.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowing\\cs\\cs-winui\\windowing.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "Windowing-cs1",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf\\wpf_packaged_app.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "wpf_packaged_app",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "wpf_packaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "wpf_packaged_app",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\Windowing\\cs1\\cs-wpf\\wpf_packaged_app\\wpf_packaged_app.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowing\\cs1\\cs-wpf\\wpf_packaged_app.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-console-unpackaged\\SelfContainedDeployment.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-console-unpackaged\\SelfContainedDeployment.vcxproj",
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "deploymentType": "Self-Contained",
+          "projectName": "SelfContainedDeployment",
+          "windowsAppSDKSelfContained": "true",
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-console-unpackaged\\SelfContainedDeployment.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-console-unpackaged\\SelfContainedDeployment.vcxproj",
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "deploymentType": "Self-Contained",
+          "projectName": "SelfContainedDeployment",
+          "windowsAppSDKSelfContained": "true",
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-console-unpackaged\\SelfContainedDeployment.vcxproj"
+        }
+      ],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cpp\\cpp-console-unpackaged\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui-packaged\\SelfContainedDeployment.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-packaged\\SelfContainedDeployment.vcxproj",
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "deploymentType": "Self-Contained",
+          "projectName": "SelfContainedDeployment",
+          "windowsAppSDKSelfContained": "true",
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-packaged\\SelfContainedDeployment.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-packaged\\SelfContainedDeployment.vcxproj",
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "deploymentType": "Self-Contained",
+          "projectName": "SelfContainedDeployment",
+          "windowsAppSDKSelfContained": "true",
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-packaged\\SelfContainedDeployment.vcxproj"
+        }
+      ],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cpp\\cpp-winui-packaged\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cpp",
+      "cppUnknownProjects": [],
+      "relativePath": "cpp-winui-unpackaged\\SelfContainedDeployment.sln",
+      "vcxprojCount": 1,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 0,
+      "allProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-unpackaged\\SelfContainedDeployment.vcxproj",
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "deploymentType": "Self-Contained",
+          "projectName": "SelfContainedDeployment",
+          "windowsAppSDKSelfContained": "true",
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-unpackaged\\SelfContainedDeployment.vcxproj"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [
+        {
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-unpackaged\\SelfContainedDeployment.vcxproj",
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "deploymentType": "Self-Contained",
+          "projectName": "SelfContainedDeployment",
+          "windowsAppSDKSelfContained": "true",
+          "platformToolset": "v143",
+          "configurationType": "Application",
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cpp\\cpp-winui-unpackaged\\SelfContainedDeployment.vcxproj"
+        }
+      ],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cpp\\cpp-winui-unpackaged\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-console-unpackaged\\SelfContainedDeployment.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-console-unpackaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-console-unpackaged\\SelfContainedDeployment.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-console-unpackaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-console-unpackaged\\SelfContainedDeployment.csproj",
+          "outputType": "Exe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cs\\cs-console-unpackaged\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cs",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-wpf-unpackaged\\SelfContainedDeployment.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-wpf-unpackaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.17763.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-wpf-unpackaged\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-wpf-unpackaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.17763.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs\\cs-wpf-unpackaged\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cs\\cs-wpf-unpackaged\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cs1",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-packaged-wap\\SelfContainedDeployment.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs1\\cs-winui-packaged-wap\\SelfContainedDeployment\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs1\\cs-winui-packaged-wap\\SelfContainedDeployment\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs1\\cs-winui-packaged-wap\\SelfContainedDeployment\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs1\\cs-winui-packaged-wap\\SelfContainedDeployment\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cs1\\cs-winui-packaged-wap\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cs2",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-packaged\\SelfContainedDeployment.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-packaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-packaged\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-packaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-packaged\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cs2\\cs-winui-packaged\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "SelfContainedDeployment-cs2",
+      "cppUnknownProjects": [],
+      "relativePath": "cs-winui-unpackaged\\SelfContainedDeployment.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "SelfContainedDeployment",
+      "deploymentType": "Self-Contained",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-unpackaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-unpackaged\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [],
+      "csharpSelfContainedProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-unpackaged\\SelfContainedDeployment.csproj",
+          "selfContained": null,
+          "analysis": [
+            "WindowsAppSDKSelfContained=true"
+          ],
+          "projectName": "SelfContainedDeployment",
+          "targetFramework": "net6.0-windows10.0.19041.0",
+          "deploymentType": "Self-Contained",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\SelfContainedDeployment\\cs2\\cs-winui-unpackaged\\SelfContainedDeployment.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": "true"
+        }
+      ],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\selfcontaineddeployment\\cs2\\cs-winui-unpackaged\\selfcontaineddeployment.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "WindowsAIFoundry-cs--Winforms--Pckg",
+      "cppUnknownProjects": [],
+      "relativePath": "WindowsAISample.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "WindowsAISample",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Pckg\\WindowsAISampleForWinForms\\WindowsAISample.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISample",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Pckg\\WindowsAISampleForWinForms\\WindowsAISample.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Pckg\\WindowsAISampleForWinForms\\WindowsAISample.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISample",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Pckg\\WindowsAISampleForWinForms\\WindowsAISample.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowsaifoundry\\cs-winforms-pckg\\windowsaisample.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "WindowsAIFoundry-cs--Winforms--Sparse",
+      "cppUnknownProjects": [],
+      "relativePath": "WindowsAISampleForWinForms.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "WindowsAISampleForWinForms",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse\\WinForms\\WindowsAISampleForWinFormsSparse.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISampleForWinFormsSparse",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse\\WinForms\\WindowsAISampleForWinFormsSparse.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse\\WinForms\\WindowsAISampleForWinFormsSparse.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISampleForWinFormsSparse",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Winforms-Sparse\\WinForms\\WindowsAISampleForWinFormsSparse.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowsaifoundry\\cs-winforms-sparse\\windowsaisampleforwinforms.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "WindowsAIFoundry-cs--WinUI",
+      "cppUnknownProjects": [],
+      "relativePath": "WindowsAISample.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "WindowsAISample",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-WinUI\\WindowsAISample.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISample",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-WinUI\\WindowsAISample.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-WinUI\\WindowsAISample.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISample",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-WinUI\\WindowsAISample.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowsaifoundry\\cs-winui\\windowsaisample.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "WindowsAIFoundry-cs--Wpf",
+      "cppUnknownProjects": [],
+      "relativePath": "WindowsAISampleForWPF.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": true,
+      "solutionName": "WindowsAISampleForWPF",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf\\WindowsAISampleForWPF\\WindowsAISampleForWPF.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISampleForWPF",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf\\WindowsAISampleForWPF\\WindowsAISampleForWPF.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf\\WindowsAISampleForWPF\\WindowsAISampleForWPF.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISampleForWPF",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf\\WindowsAISampleForWPF\\WindowsAISampleForWPF.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowsaifoundry\\cs-wpf\\windowsaisampleforwpf.sln"
+    },
+    {
+      "totalProjectCount": 1,
+      "featureArea": "WindowsAIFoundry-cs--Wpf--Sparse",
+      "cppUnknownProjects": [],
+      "relativePath": "WindowsAISampleForWPF.sln",
+      "vcxprojCount": 0,
+      "cppFrameworkDependentProjects": [],
+      "hasWapProj": false,
+      "solutionName": "WindowsAISampleForWPF",
+      "deploymentType": "Framework-Dependent",
+      "csprojCount": 1,
+      "allProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf-Sparse\\WindowsAISampleForWPF\\WindowsAISampleForWPFSparse.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISampleForWPFSparse",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf-Sparse\\WindowsAISampleForWPF\\WindowsAISampleForWPFSparse.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpUnknownProjects": [],
+      "csharpFrameworkDependentProjects": [
+        {
+          "fullPath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf-Sparse\\WindowsAISampleForWPF\\WindowsAISampleForWPFSparse.csproj",
+          "selfContained": null,
+          "analysis": [
+            "Default: Framework-Dependent"
+          ],
+          "projectName": "WindowsAISampleForWPFSparse",
+          "targetFramework": "net8.0-windows10.0.22621.0",
+          "deploymentType": "Framework-Dependent",
+          "relativePath": "q:\\code_WASDK\\WindowsAppSDK-Samples\\Samples\\WindowsAIFoundry\\cs-Wpf-Sparse\\WindowsAISampleForWPF\\WindowsAISampleForWPFSparse.csproj",
+          "outputType": "WinExe",
+          "windowsAppSDKSelfContained": null
+        }
+      ],
+      "csharpSelfContainedProjects": [],
+      "cppSelfContainedProjects": [],
+      "fullPath": "q:\\code_wasdk\\windowsappsdk-samples\\samples\\windowsaifoundry\\cs-wpf-sparse\\windowsaisampleforwpf.sln"
+    }
+  ]
+}
