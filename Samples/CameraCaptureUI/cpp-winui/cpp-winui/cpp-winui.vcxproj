@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="..\packages\Microsoft.WindowsAppSDK.1.8.250515001-experimental2\build\native\Microsoft.WindowsAppSDK.props" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.1.8.250515001-experimental2\build\native\Microsoft.WindowsAppSDK.props')" />
   <Import Project="..\packages\Microsoft.WindowsAppSDK.WinUI.1.8.250507002-experimental\build\native\Microsoft.WindowsAppSDK.WinUI.props" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.WinUI.1.8.250507002-experimental\build\native\Microsoft.WindowsAppSDK.WinUI.props')" />
@@ -34,7 +34,6 @@
     <WindowsTargetPlatformMinVersion>10.0.17763.0</WindowsTargetPlatformMinVersion>
     <UseWinUI>true</UseWinUI>
     <EnablePreviewMsixTooling>true</EnablePreviewMsixTooling>
-    <WindowsAppSDKSelfContained xmlns="">true</WindowsAppSDKSelfContained>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <ItemGroup Label="ProjectConfigurations">
@@ -79,7 +78,8 @@
     <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
-  <ImportGroup Label="ExtensionSettings"></ImportGroup>
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
   <ImportGroup Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
@@ -216,7 +216,7 @@
     <Import Project="..\packages\Microsoft.WindowsAppSDK.Packages.1.8.250515001-experimental2\build\native\Microsoft.WindowsAppSDK.Packages.targets" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.Packages.1.8.250515001-experimental2\build\native\Microsoft.WindowsAppSDK.Packages.targets')" />
     <Import Project="..\packages\Microsoft.WindowsAppSDK.WinUI.1.8.250507002-experimental\build\native\Microsoft.WindowsAppSDK.WinUI.targets" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.WinUI.1.8.250507002-experimental\build\native\Microsoft.WindowsAppSDK.WinUI.targets')" />
     <Import Project="..\packages\Microsoft.WindowsAppSDK.Widgets.1.8.250505003-experimental\build\native\Microsoft.WindowsAppSDK.Widgets.targets" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.Widgets.1.8.250505003-experimental\build\native\Microsoft.WindowsAppSDK.Widgets.targets')" />
-    <Import Project="..\packages\Microsoft.WindowsAppSDK.AI.1.8.135-experimental\build\native\Microsoft.WindowsAppSDK.AI.targets" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.AI.1.8.135-experimental\build\native\Microsoft.WindowsAppSDK.AI.targets')" />
+    <Import Project="..\packages\Microsoft.WindowsAppSDK.AI.1.8.135-experimental\build\native\Microsoft.WindowsAppSDK.AI.targets" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.AI.1.8.135-experimental\build\native\Microsoft.WindowsAppSDK.AI.targets')" /> 
     <Import Project="..\packages\Microsoft.WindowsAppSDK.1.8.250515001-experimental2\build\native\Microsoft.WindowsAppSDK.targets" Condition="Exists('..\packages\Microsoft.WindowsAppSDK.1.8.250515001-experimental2\build\native\Microsoft.WindowsAppSDK.targets')" />
     <Import Project="..\packages\Microsoft.Windows.SDK.BuildTools.MSIX.1.7.20250508.1\build\Microsoft.Windows.SDK.BuildTools.MSIX.targets" Condition="Exists('..\packages\Microsoft.Windows.SDK.BuildTools.MSIX.1.7.20250508.1\build\Microsoft.Windows.SDK.BuildTools.MSIX.targets')" />
     <Import Project="..\packages\Microsoft.Web.WebView2.1.0.3179.45\build\native\Microsoft.Web.WebView2.targets" Condition="Exists('..\packages\Microsoft.Web.WebView2.1.0.3179.45\build\native\Microsoft.Web.WebView2.targets')" />
@@ -252,3 +252,4 @@
     <Error Condition="!Exists('..\packages\Microsoft.Web.WebView2.1.0.3179.45\build\native\Microsoft.Web.WebView2.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Web.WebView2.1.0.3179.45\build\native\Microsoft.Web.WebView2.targets'))" />
   </Target>
 </Project>
+

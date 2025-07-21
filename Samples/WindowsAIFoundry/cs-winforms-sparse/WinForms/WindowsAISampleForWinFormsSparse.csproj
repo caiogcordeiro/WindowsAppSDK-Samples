@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows10.0.22621.0</TargetFramework>
@@ -8,8 +8,8 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Platforms>ARM64;x64;x86</Platforms>
-    <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
   </PropertyGroup>
+
   <ItemGroup>
     <Content Include="Images\**\*">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -18,7 +18,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+
   <ItemGroup>
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.250515001-experimental2" />
   </ItemGroup>
+
 </Project>
