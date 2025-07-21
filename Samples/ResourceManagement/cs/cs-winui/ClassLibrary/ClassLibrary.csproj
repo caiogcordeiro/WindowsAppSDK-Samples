@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net6.0-windows10.0.19041.0</TargetFramework>
@@ -12,7 +12,7 @@
     <None Remove="ClassLibraryResources.resw" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.250515001-experimental2" />
+    <PackageReference Include="Microsoft.WindowsAppSDK.Foundation" Version="1.8.250507001-experimental" />
   </ItemGroup>
   <ItemGroup>
     <PRIResource Include="ClassLibraryResources.resw" />
