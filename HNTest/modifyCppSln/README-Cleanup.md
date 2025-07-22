@@ -1,111 +1,145 @@
-# C++ Project Package Cleanup Script
+# C++ Project Cleanup Script
 
-This script cleans up C++ Windows App SDK projects by removing unnecessary NuGet packages and keeping only the essential ones.
+This PowerShell script automates the cleanup of C++ projects in the Windows App SDK samples, removing unnecessary NuGet packages and updating project files for self-contained deployment.
 
-## What it does
+## Features
 
-### 1. Updates `packages.config`
-Removes unnecessary packages and keeps only:
-- `Microsoft.WindowsAppSDK.Foundation`
-- `Microsoft.Windows.SDK.BuildTools`
-- `Microsoft.Windows.SDK.BuildTools.MSIX`
-- `Microsoft.WindowsAppSDK.Base`
-- `Microsoft.WindowsAppSDK.InteractiveExperiences`
-
-### 2. Removes packages folder
-Deletes the local `packages` folder to force a clean restore.
-
-### 3. Cleans up `.vcxproj` files
-Removes `<Error>` conditions and `<Import>` statements related to removed packages.
+- **Batch Processing**: Process all 37 C++ solutions automatically
+- **Single Project Mode**: Process individual projects
+- **Safe Operation**: Creates backup files before making changes
+- **What-If Mode**: Preview changes without applying them
+- **Comprehensive Cleanup**: Updates packages.config, deletes packages folders, and cleans .vcxproj files
 
 ## Usage
 
+### Batch Mode - Process All C++ Solutions
 ```powershell
-# Preview changes (What-If mode)
-.\Cleanup-CppProject.ps1 -WhatIf
+# Preview changes for all 10 C++ solutions (What-If mode)
+.\Cleanup-CppProject.ps1 -ProcessAllCppSolutions -WhatIf
 
-# Apply changes to default project
-.\Cleanup-CppProject.ps1
+# Apply changes to all 10 C++ solutions
+.\Cleanup-CppProject.ps1 -ProcessAllCppSolutions
 
-# Apply changes to specific project
-.\Cleanup-CppProject.ps1 -ProjectPath "..\..\Samples\AppLifecycle\Activation\cpp\cpp-console-unpackaged"
-
-# Example: Clean up a different project
-.\Cleanup-CppProject.ps1 -ProjectPath "..\..\Samples\PhotoEditor\cpp-winui" -WhatIf
+# Specify custom feature area solutions file
+.\Cleanup-CppProject.ps1 -ProcessAllCppSolutions -FeatureAreaSolutionsFile "C:\path\to\featureAreaSolutions.json"
 ```
+
+### Single Project Mode
+```powershell
+# Preview changes for a single project (What-If mode)
+.\Cleanup-CppProject.ps1 -ProjectPath "Q:\code_WASDK\WindowsAppSDK-Samples\Samples\AppLifecycle\Instancing\cpp-console-unpackaged\CppWinRtConsoleActivation" -WhatIf
+
+# Apply changes to a single project  
+.\Cleanup-CppProject.ps1 -ProjectPath "Q:\code_WASDK\WindowsAppSDK-Samples\Samples\AppLifecycle\Instancing\cpp-console-unpackaged\CppWinRtConsoleActivation"
+```
+
+## Parameters
+
+- **`-ProcessAllCppSolutions`**: Switch to enable batch processing of all C++ solutions
+- **`-ProjectPath`**: Path to a specific project directory (required for single project mode)
+- **`-FeatureAreaSolutionsFile`**: Path to the JSON file containing solution mappings (default: "../featureAreaSolutions.json")
+- **`-WhatIf`**: Preview changes without applying them
+
+## What the Script Does
+
+### 1. Updates packages.config
+- **Removes** unnecessary WindowsAppSDK packages:
+  - Microsoft.WindowsAppSDK
+  - Microsoft.Web.WebView2  
+  - Microsoft.WindowsAppSDK.AI
+  - Microsoft.WindowsAppSDK.DWrite
+  - Microsoft.WindowsAppSDK.Packages
+  - Microsoft.WindowsAppSDK.ML
+  - Microsoft.WindowsAppSDK.Runtime
+  - Microsoft.WindowsAppSDK.Widgets
+  - Microsoft.WindowsAppSDK.WinUI
+
+- **Keeps** essential packages:
+  - Microsoft.Windows.CppWinRT
+  - Microsoft.Windows.ImplementationLibrary
+  - Microsoft.WindowsAppSDK.ProjectReunion
+  - Win32Metadata
+  - Microsoft.Windows.SDK.BuildTools
+  - Microsoft.VCRTForwarders.140
+
+### 2. Deletes packages folder
+- Searches for packages folders in:
+  - Project directory
+  - Parent directory (solution level)
+  - Grandparent directory (feature area level)
+- Reports folder size before deletion
+- Safely removes all found packages folders
+
+### 3. Cleans .vcxproj files
+- Removes `<Error>` conditions related to removed packages
+- Removes `<Import>` statements for removed packages
+- Uses precise regex patterns to avoid removing needed references
+- Preserves essential MSBuild imports and conditions
+
+## Batch Processing Details
+
+When using `-ProcessAllCppSolutions`, the script:
+
+1. **Loads C++ Solutions**: Parses the `featureAreaSolutions.json` file to identify C++ solutions
+2. **Filters Solutions**: Identifies C++ solutions by path patterns (`cpp-`, `\cpp\`, `\native\`, `-cpp\`)
+3. **Discovers Projects**: Finds project directories within each solution that contain packages.config or .vcxproj files
+4. **Processes Projects**: Applies the cleanup process to each discovered project
+5. **Reports Progress**: Provides detailed progress information and final summary
+
+### Expected Results
+- **37 C++ Solutions**: Identified from the total 82 solutions
+- **Multiple Projects**: Each solution may contain multiple project directories
+- **Comprehensive Cleanup**: All C++ projects will have packages cleaned up automatically
 
 ## Safety Features
 
-- **Backup files**: Creates `.backup` files for all modified files
-- **What-If mode**: Preview changes before applying them
-- **Error handling**: Comprehensive error checking and reporting
-
-## Packages Removed
-
-The script removes these packages if found:
-- Microsoft.WindowsAppSDK (main package)
-- Microsoft.Web.WebView2
-- Microsoft.WindowsAppSDK.AI
-- Microsoft.WindowsAppSDK.DWrite
-- Microsoft.WindowsAppSDK.Packages
-- Microsoft.WindowsAppSDK.ML
-- Microsoft.WindowsAppSDK.Runtime
-- Microsoft.WindowsAppSDK.Widgets
-- Microsoft.WindowsAppSDK.WinUI
-
-## Packages Kept
-
-These essential packages are preserved:
-- Microsoft.WindowsAppSDK.Foundation
-- Microsoft.Windows.SDK.BuildTools
-- Microsoft.Windows.SDK.BuildTools.MSIX
-- Microsoft.WindowsAppSDK.Base
-- Microsoft.WindowsAppSDK.InteractiveExperiences
-
-Any other packages (like Microsoft.Windows.CppWinRT) are also preserved.
-
-## After running the script
-
-1. Run `nuget restore` to download only the essential packages
-2. Build the project to verify everything works
-3. If issues occur, restore from `.backup` files
+- **Backup Files**: Creates `.backup` files before modifying any original files
+- **What-If Mode**: Use `-WhatIf` to preview all changes before applying them
+- **Error Handling**: Continues processing other projects if one fails
+- **Detailed Logging**: Shows exactly what changes are being made
+- **Progress Tracking**: Reports success/failure counts for batch operations
 
 ## Example Output
 
+### Batch Processing Summary
 ```
-=== C++ Project Package Cleanup Script ===
-Project Path: ..\..\Samples\AppLifecycle\Activation\cpp\cpp-console-unpackaged
+================================================================================
+BATCH PROCESSING SUMMARY
+================================================================================
+Total C++ Solutions Found: 37
+Total Projects Processed: 89
+Total Projects Skipped: 3
+Total Errors: 0
+Packages to keep: Microsoft.Windows.CppWinRT, Microsoft.Windows.ImplementationLibrary, ...
+Packages to remove: Microsoft.WindowsAppSDK, Microsoft.Web.WebView2, ...
+================================================================================
+```
 
-Processing packages.config:
+### Single Project Output
+```
+Processing C++ project: Q:\...\CppWinRtConsoleActivation
+
+Processing packages.config: Q:\...\packages.config
   - Will remove: Microsoft.WindowsAppSDK
   - Will remove: Microsoft.Web.WebView2
-  + Will keep: Microsoft.WindowsAppSDK.Foundation
-  + Will keep: Microsoft.Windows.SDK.BuildTools
+  + Will keep: Microsoft.Windows.CppWinRT
+  Created backup: Q:\...\packages.config.backup
+  Updated packages.config (removed 7 packages)
 
-Processing vcxproj:
-  - Will remove 14 error condition(s) for removed packages
-  - Will remove 7 import statement(s) for removed packages
+Found packages folder: Q:\...\packages (Size: 203.3 MB)
+  ✅ Deleted packages folder: Q:\...\packages
 
-✅ Project cleanup completed successfully!
+Processing vcxproj: Q:\...\CppWinRtConsoleActivation.vcxproj
+  Created backup: Q:\...\CppWinRtConsoleActivation.vcxproj.backup
+  Updated vcxproj (removed 3 errors, 2 imports)
+
+✓ Project processing completed successfully!
 ```
 
-## Troubleshooting
+## Notes
 
-### If the script fails:
-1. Check if the project path exists
-2. Ensure you have write permissions
-3. Close Visual Studio before running the script
-
-### If build fails after cleanup:
-1. Run `nuget restore` in the project directory
-2. Check if any required packages were accidentally removed
-3. Restore from `.backup` files if needed
-
-### To restore backup files:
-```powershell
-# Restore packages.config
-Copy-Item "packages.config.backup" "packages.config" -Force
-
-# Restore vcxproj file
-Copy-Item "ProjectName.vcxproj.backup" "ProjectName.vcxproj" -Force
-```
+- Run the script from the `modifyCppSln` directory
+- Backup files are created with `.backup` extension
+- The script handles various project structures and solution layouts
+- Use What-If mode first to verify the intended changes
+- The featureAreaSolutions.json file should be in the parent directory by default

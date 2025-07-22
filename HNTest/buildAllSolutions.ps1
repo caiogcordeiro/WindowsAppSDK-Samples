@@ -1,7 +1,7 @@
 # Build all feature area solutions with NuGet restore and MSBuild
 param(
     [string]$InputFile = "featureAreaSolutions.json",
-    [string]$OutputFile = "buildResults_Release_x64_modified.json",
+    [string]$OutputFile = "buildResults_Release_x64_modified_cpp.json",
     [string]$Configuration = "Release",
     [string]$Platform = "x64"
 )
