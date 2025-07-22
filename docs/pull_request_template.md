@@ -6,6 +6,8 @@ how to best contribute to the Windows App SDK Samples repository!
 
 -->
 
+# Pull Request Template
+
 ## Description
 
 Please include a summary of the change and/or which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
